@@ -63,20 +63,19 @@ Aplicaciones sobre GNU-Linux, php y PostGIS para la generación asistida de mapa
 ## Educación
 
 ### Massachusetts Institute of Technology  
-![1519856414204](https://user-images.githubusercontent.com/3052651/172134360-53741e84-2ad5-45e4-abb4-093f545d5664.jpg)
+![1519856414204](https://user-images.githubusercontent.com/3052651/172134360-53741e84-2ad5-45e4-abb4-093f545d5664.jpg)  
 Doctorado (PhD), Operations Research: Investigación Operativa  
 1997 - 2001  
 Actividades y grupos: Teaching and Research AssitantActividades y grupos: Teaching and Research Assitant
 
 ### Universidad de Buenos Aires 
-![1519861386584](https://user-images.githubusercontent.com/3052651/172134647-d0e7a77b-b9e5-49d3-ba88-aa79b31716bc.jpg)
-Facultad de Ciecias Exactas y Naturales  
-#### Licenciado, Ciencias de la computación  
+![1519861386584](https://user-images.githubusercontent.com/3052651/172134647-d0e7a77b-b9e5-49d3-ba88-aa79b31716bc.jpg)  
+#### Facultad de Ciecias Exactas y Naturales  
+##### Licenciado, Ciencias de la computación  
 1989 - 1994  
 Titulación: 8.40 sobre 10 (Diploma de Honor)  
 Actividades y grupos: Consejero Directivo por el Claustro Estudiantil  
-
-#### Licenciatura en Ciencias Biológicas, FCEyN, UBA  
+##### Licenciatura en Ciencias Biológicas, FCEyN, UBA  
 Licenciatura, Ciencias Biológicas  
 1987 - 1989  
 Titulación: 9.45 sobre 10
