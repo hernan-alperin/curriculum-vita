@@ -372,10 +372,10 @@ SAMSUNG Health
 
 ## Redes sociales
 
-[### Facebook]
-(https://www.facebook.com/hernan.alperin.7/)
+[Facebook](https://www.facebook.com/hernan.alperin.7/)
 
-[### Twitter]
+[Twitter @HernanAlperin]
 (https://twitter.com/HernanAlperin)
 
-### LinkedIn
+[LinkedIn]
+(https://www.linkedin.com/in/hernanalperin/?locale=es_ES)
