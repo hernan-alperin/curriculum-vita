@@ -1,8 +1,10 @@
 ![1604003204258](https://user-images.githubusercontent.com/3052651/172132934-644bfe75-5693-499d-9506-fafadeb7ea8b.jpg)
 
 # Lic. Hernán Alperin
-Matemático y Geoestadística en la Coordinación del Sistema Geoestadístico  
-De la Dirección Nacional de Metodología Estadística - INDEC  
+Matemático y Geoestadística  
+en la Coordinación del Sistema Geoestadístico  
+de la Dirección Nacional de Metodología Estadística - INDEC  
+![1627071732502](https://user-images.githubusercontent.com/3052651/172166583-24787df4-d4ba-4737-8d1f-7a67c0c5973d.jpg)
  
 J. A. Roca 609 oficina 701 C1067ABB  
 oficina +54-11-4349-9705 interno 49705  
@@ -18,6 +20,7 @@ Mis objetivos son aportar desde las Ciencias de la Computación, la Investigaci�
 ## Experiencia
  
 ### INDEC
+![1627071732502](https://user-images.githubusercontent.com/3052651/172166654-8c27e66a-b1c5-419c-afd2-35edb77fc1f1.jpg)
 29 años 10 meses  
 Consultor en Matemática, Tecnología de la Información y Geoestadística; y lider en desarrollo de proyectos.  
 Desarrollo de Sistemas de Información Geoestadística sobre plataforma web y software libre.  
@@ -38,8 +41,8 @@ sept. 1992 - actualidad
 ### Instituto Junín  
 Operationes y consultor IT   
 dic. 2014 - abr. 2015 · 5 meses  
-BsAs  
-Consultor estratégico de plan de negocios y ventas. Desarrollo de sucursales y crecimiento de plataforma web y publicidad.Consultor estratégico de plan de negocios y ventas. Desarrollo de sucursales y crecimiento de plataforma web y publicidad.
+CABA  
+Consultor estratégico de plan de negocios y ventas. Desarrollo de sucursales y crecimiento de plataforma web y publicidad.
 
 ### Viridis LearningViridis Learning  
 Recommendation Algorithms and Career-Path Scaffolding
@@ -95,6 +98,7 @@ Programación Matemática bajo la supervisión de Dimitris Bertsimas, formulaci�
 Transporte Urbano supervisado por Michel Bierlaire: participación en el desarrollo de sistemas de transporte inteligente aplicado a las arterias centrales de Boston, modelado y simulación del comportamiento de la densidad de tránsito en el proyecto "Big Dig". 
 
 ### Facultad de Ciencias Exactas y Naturales, UBA
+![1616465340598](https://user-images.githubusercontent.com/3052651/172166813-a4282d9d-c364-4c1b-a9ac-762dff2b0bba.jpg)  
 Jefe de Trabajos Prácticos  
 Facultad de Ciencias Exactas y Naturales, UBA  
 1989 - 1995 · 6 años 1 mes  
@@ -113,7 +117,8 @@ Actividades y grupos: Teaching and Research AssitantActividades y grupos: Teachi
 
 ### Universidad de Buenos Aires 
 ![1519861386584](https://user-images.githubusercontent.com/3052651/172134647-d0e7a77b-b9e5-49d3-ba88-aa79b31716bc.jpg)  
-#### Facultad de Ciecias Exactas y Naturales  
+#### Facultad de Ciecias Exactas y Naturales
+![1616465340598](https://user-images.githubusercontent.com/3052651/172166862-8f1fbd24-f11b-4181-a480-ffaa9371a895.jpg)
 ##### Licenciado, Ciencias de la computación  
 1989 - 1994  
 Titulación: 8.40 sobre 10 (Diploma de Honor)  
