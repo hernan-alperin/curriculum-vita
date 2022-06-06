@@ -24,7 +24,7 @@ Mis objetivos son
 ## Experiencia
  
 ### INDEC
-![1627071732502](https://user-images.githubusercontent.com/3052651/172166654-8c27e66a-b1c5-419c-afd2-35edb77fc1f1.jpg)
+<img width="100" alt="Instituto de Estadísticas y Censos" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/INDEC.jpg">  
 29 años 10 meses  
 Consultor en Matemática, Tecnología de la Información y Geoestadística; y lider en desarrollo de proyectos.  
 Desarrollo de Sistemas de Información Geoestadística sobre plataforma web y software libre.  
@@ -43,22 +43,23 @@ sept. 1992 - actualidad
 - 1992 - 1994: EGH, Programador de ajustes metodológicos.  
 
 ### Instituto Junín  
-![11024486_854580094604087_4985728558066497244_n](https://user-images.githubusercontent.com/3052651/172169004-3871b180-36bf-4ccb-bfa3-87c4ae6e5e39.png)  
+
+<img width="100" alt="Instituto Junín" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/instituto%20jun%C3%ADn.png">  
+
 Operationes y consultor IT   
 dic. 2014 - abr. 2015 · 5 meses  
 CABA  
 Consultor estratégico de plan de negocios y ventas. Desarrollo de sucursales y crecimiento de plataforma web y publicidad.
 
-### Viridis LearningViridis Learning
-![viridis](https://user-images.githubusercontent.com/3052651/172168186-1efa39d1-7aac-4151-8908-bb345ea80b4f.png)
+### Viridis Learning
+<img width="100" alt="Viridis Learning" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/viridis.jpg">  
 Recommendation Algorithms and Career-Path Scaffolding
 feb. 2014 - dic. 2014 · 11 meses  
 up in the Cloud  
 Desarrollo de Algoritmos de Recomendación para la asistencia a estudiante y mano de obra medianamente calificada a elegir la mejor educación con mayor potencial para obtener prospectivos posiciones laborales y ayudarlos a construir su carrera laboral hacia sus objetivos. Este fue implementado usando el estado del arte en Algoritmos Matemáticos y de las Ciencias de Computación, observando la demanda del mercado laboral, la oferta educativa y las inclinaciones profesionales de los usuarios accediendo a las Bases de datos del U.S. Bureau of Labor Statistics and PayScale.com
 
 ### Deviget LLC  
-![1519895166415](https://user-images.githubusercontent.com/3052651/172168738-46fb5acd-d522-4b97-9971-0c996e335e95.jpg)
-![20994125_1748198545209648_1408515848547040896_n](https://user-images.githubusercontent.com/3052651/172168773-d16c42ea-b5d5-453d-995a-9915244f416e.png)  
+<img width="100" alt="Deviget LLC" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/deviget%20original.jpg"> 
 Programador Matemático
 feb. 2014 - dic. 2014 · 11 meses  
 Latin America
@@ -74,13 +75,14 @@ Aplicaciones sobre GNU-Linux, php y PostGIS para la generación asistida de mapa
 
 
 ### INAP, Secretaría de la Gestión Pública, Jefatura de Gabinete de Ministros
+<img width="100" alt="Instituto Nacional de la Administración Pública" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/INAP.jpg">
 Profesor
 nov. 2012 - 2013 · 3 meses
 Av. Roque Saenz Peña (Diag. Norte) 511, caba, argentina
 Módulo Postgres - PostGIS para el curso de interoperatibilidad GIS para el Grupo de Productores de Información Primaria (GPIP)
 
 ### Humboldt University of Berlin
-![1519856057386](https://user-images.githubusercontent.com/3052651/172163333-97c6c99d-fa1c-4d9b-9ba0-dc7bec1c203d.jpg)
+<img width="100" alt="Humboldt Universität zu Berlin" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/HU-Berlin.jpg">
 Universität zu Berlin  
 Investigador  
 2001 - 2004 · 3 años 1 mes
@@ -88,6 +90,7 @@ Berlin, Alemania
 Investigación en Optimización Global y Desarrollo del Software LaGO, ver sección Publicaciones.
 
 ### Massachusetts Institute of Technology
+<img width="100" alt="Massachusetts Institute of Technology" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/MIT.jpg">
 Ayudante de Cátedra y Asistente de Investigación,  
 ORC - MIT  
 1997 - 2001 · 4 años 1 mes  
@@ -106,7 +109,7 @@ Programación Matemática bajo la supervisión de Dimitris Bertsimas, formulaci�
 Transporte Urbano supervisado por Michel Bierlaire: participación en el desarrollo de sistemas de transporte inteligente aplicado a las arterias centrales de Boston, modelado y simulación del comportamiento de la densidad de tránsito en el proyecto "Big Dig". 
 
 ### Facultad de Ciencias Exactas y Naturales, UBA
-![1616465340598](https://user-images.githubusercontent.com/3052651/172166813-a4282d9d-c364-4c1b-a9ac-762dff2b0bba.jpg)  
+<img width="100" alt="Facultad de Ciencias Exactas y Naturales, UBA" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/FCEyN.jpg">
 Jefe de Trabajos Prácticos  
 Facultad de Ciencias Exactas y Naturales, UBA  
 1989 - 1995 · 6 años 1 mes  
@@ -118,15 +121,15 @@ y Laboratorio II en el Dpto. de Computación
 ## Educación
 
 ### Massachusetts Institute of Technology  
-![1519856414204](https://user-images.githubusercontent.com/3052651/172134360-53741e84-2ad5-45e4-abb4-093f545d5664.jpg)  
+<img width="100" alt="Massachusetts Institute of Technology" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/MIT.jpg">
 Doctorado (PhD), Operations Research: Investigación Operativa  
 1997 - 2001  
 Actividades y grupos: Teaching and Research AssitantActividades y grupos: Teaching and Research Assitant
 
 ### Universidad de Buenos Aires 
-![1519861386584](https://user-images.githubusercontent.com/3052651/172134647-d0e7a77b-b9e5-49d3-ba88-aa79b31716bc.jpg)  
+<img width="100" alt="Universidad de Buenos Aires" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/UBA.jpg">
 #### Facultad de Ciecias Exactas y Naturales
-![1616465340598](https://user-images.githubusercontent.com/3052651/172166862-8f1fbd24-f11b-4181-a480-ffaa9371a895.jpg)
+<img width="100" alt="Facultad de Ciencias Exactas y Naturales, UBA" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/FCEyN.jpg">
 ##### Licenciado, Ciencias de la computación  
 1989 - 1994  
 Titulación: 8.40 sobre 10 (Diploma de Honor)  
