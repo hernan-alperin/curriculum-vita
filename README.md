@@ -51,15 +51,15 @@ dic. 2014 - abr. 2015 · 5 meses
 CABA  
 Consultor estratégico de plan de negocios y ventas. Desarrollo de sucursales y crecimiento de plataforma web y publicidad.
 
-<img width="100" alt="Viridis Learning" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/viridis.png">  
 ### Viridis Learning 
+<img width="100" alt="Viridis Learning" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/viridis.png">  
 Recommendation Algorithms and Career-Path Scaffolding
 feb. 2014 - dic. 2014 · 11 meses  
 up in the Cloud  
 Desarrollo de Algoritmos de Recomendación para la asistencia a estudiante y mano de obra medianamente calificada a elegir la mejor educación con mayor potencial para obtener prospectivos posiciones laborales y ayudarlos a construir su carrera laboral hacia sus objetivos. Este fue implementado usando el estado del arte en Algoritmos Matemáticos y de las Ciencias de Computación, observando la demanda del mercado laboral, la oferta educativa y las inclinaciones profesionales de los usuarios accediendo a las Bases de datos del U.S. Bureau of Labor Statistics and PayScale.com
 
-<img width="100" alt="Deviget LLC" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/deviget original.jpg"> 
 ### Deviget LLC  
+<img width="100" alt="Deviget LLC" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/deviget original.jpg"> 
 Programador Matemático
 feb. 2014 - dic. 2014 · 11 meses  
 Latin America
