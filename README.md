@@ -203,3 +203,18 @@ Desarrollo web
 2 validaciones,
 Sistema de información geográfica
 2 validaciones.
+
+## Recomendaciones
+### Luis Piccinali  
+Contacto de 1er grado  
+Licenciado en Geografía, UBA. Especializado en Sistemas de información geográfica, Bases de Datos Espaciales e Infraestructura de Datos Espaciales.
+Luis trabajaba con Hernán en el mismo equipo
+Hernán posee gran experiencia en el uso y manejo de bases de datos espaciales y en desarrollar consultas complejas (SQL+PostGIS). 
+Sus conocimientos en matemática y habilidad en el tema permiten obtener distintas miradas a la resolución de problemas y a la implementación de proyectos referidos a información geográfica que de por sí son complejos y diversos.
+
+
+### Emilio PlatzerEmilio Platzer
+Contacto de 1er grado  
+Licenciado en Ciencias de la Computación. Especialista en desarrollo de software y en coordinación de equipos Full Stack
+Emilio trabajaba con Hernán en el mismo equipo
+Hernán es un profesional muy capaz y creativo. Se destaca por ser práctico y llegar a soluciones tempranas aún en situaciones complejas.
