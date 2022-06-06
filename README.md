@@ -386,6 +386,13 @@ Genética I
 Microbiología e Inmunología  
 Virología  
 
+## Idiomas
+
+### Español nativo
+### Inglés fluente
+### Alemán básico
+
+
 ## Hobbies
 
 ### Kung-Fu
