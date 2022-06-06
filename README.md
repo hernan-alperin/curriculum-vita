@@ -1,15 +1,15 @@
-<div style="width: 100; height: 100">
- 
 ![1604003204258](https://user-images.githubusercontent.com/3052651/172132934-644bfe75-5693-499d-9506-fafadeb7ea8b.jpg)
-
-</div>
 
 # Lic. Hernán Alperin
 Matemático y Geoestadística  
 en la Coordinación del Sistema Geoestadístico  
 de la Dirección Nacional de Metodología Estadística - INDEC  
-![1627071732502](https://user-images.githubusercontent.com/3052651/172166583-24787df4-d4ba-4737-8d1f-7a67c0c5973d.jpg)
+<div style="width: 100; height: 100">
  
+![1627071732502](https://user-images.githubusercontent.com/3052651/172166583-24787df4-d4ba-4737-8d1f-7a67c0c5973d.jpg)
+
+</div>
+
 J. A. Roca 609 oficina 701 C1067ABB  
 oficina +54-11-4349-9705 interno 49705  
 celular 15-9-28382725 casa 7524-4828  
