@@ -14,7 +14,9 @@ celular 15-9-28382725 casa 7524-4828
 -	Candidato a Philosophy Doctor en el Operations Research Center, Massachusetts Institute of Technology.   
 -	Investigador en la Humboldt Universität-Berlin - Institut für Mathematik.  
 
-Mis objetivos son aportar desde las Ciencias de la Computación, la Investigación Operativa, la Optimización y la Programación Matemática a la metodología de los operativos que se realizan en el Estado Nacional; y seguir capacitándome en una posición de liderazgo dentro de un productivo equipo de trabajo.
+Mis objetivos son 
+- aportar desde las Ciencias de la Computación, la Investigación Operativa, la Optimización y la Programación Matemática a la metodología de los operativos que se realizan en el Estado Nacional; y 
+- seguir capacitándome en una posición de liderazgo dentro de un productivo equipo de trabajo.
 
 
 ## Experiencia
