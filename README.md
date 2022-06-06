@@ -388,10 +388,16 @@ Virología
 
 ## Idiomas
 
-### Español nativo
-### Inglés fluente
-### Alemán básico
+### Español 
+nativo, más de 50 años con nivel universitario completo
+### Inglés 
+fluente, conversacional a nivel laboral desde 1997
+Certificate of Course Completion, from 7/4/96 to 4/5/96 at Oxford ANGLO WORLD EDUCATION (UK) LIMITED
 
+### Alemán 
+básico
+### Polaco 
+elemental
 
 ## Hobbies
 
