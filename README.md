@@ -122,10 +122,10 @@ Validada por 2 compañeros de INDEC Argentina
 Ha superado la evaluación de aptitudes de LinkedIn
 5 validaciones
 
-Unix Shell Scripting
+- Unix Shell Scripting
 5 validaciones
 
-Joomla
+- Otras: Joomla
 University Teaching
 3 validaciones,
 Open Source
