@@ -356,3 +356,26 @@ Elementos de Cálculo Numérico
 Genética I  
 Microbiología e Inmunología  
 Virología  
+
+## Hobbies
+
+### Kung-Fu
+#### Centro Huo Ma
+Cinturón Verde (primer nivel básico) 8/4/2021  
+Matías Maximiliano Bayerrri, Director Genral
+
+### Ajedrez
+Chess.com
+
+### Caminar y bicicletear
+SAMSUNG Health
+
+## Redes sociales
+
+[### Facebook]
+(https://www.facebook.com/hernan.alperin.7/)
+
+[### Twitter]
+(https://twitter.com/HernanAlperin)
+
+### LinkedIn
