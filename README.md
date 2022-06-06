@@ -302,25 +302,54 @@ Energy, Volume 31, Issues 10–11, August 2006, Pages 1346–1357 ECOS 2003 · 1
 Mathematicians and engineers have developed in a joint research project a solution approach for performing simultaneous structural and design variable optimization in the design of cost-effective complex energyconversionsystems. The paper presents a methodology and an application to the design of a combined-cycle power plant that provides fixed amounts of electricity and steam for a paper factory. A superstructure that has embedded several potential configurations of such a cogeneration system is used to minimize the total cost of the plant products. The design problem is formulated as a nonconvex mixed-integer nonlinear program (MINLP), and solved via a rounding heuristicbased on an automatically generated convex relaxation of the given problem. Utilities and the process industry are expected to benefit from such a MINLP optimization technique.
 
 ## Cursos y Materias
-### Asociados con MIT
-Traffic Networks 1.961  
+### Asociados con MIT (id 965 990 672)
+Fall Term 1997 - 1998  
 Applied Probability 6.431  
 Introduction to Mathematical Programming 6.251  
-Nonlinear Programming 15.084  
-Advanced Managerial Communication 15.281   
-Advanced Workshop in Writing for Science and Engineering 21F.225   
-Combinatorial Optimization 15.083  
-Computational Design I: Theory and Applications 4.201  
+Traffic Networks 1.961  
+
+Spring Term 1997 - 1998  
 Discrete Stochastic Processes 6.262  
-Introduction to Financial Economics  
-German II  
-Logistical and Transportation Planning Methods 15.073  
-Modern Regression and Multivariate Analysis 15.077  
-Networks for Learning: Regression and Classification 9.520  
+Nonlinear Programming 15.084  
 Special Seminars in Applied Probability and Stochastic Processes (Asymptotic Methods for Stochastic Processes - Data Mining, Statistics and Optimization) 15.098  
+Special Seminar in Operations Research 15.099
+Thesis
+
+Fall Term Term 1998 - 1999
+Logistical and Transportation Planning Methods 15.073  
 Statistical Theory and Methodology 15.076  
+
+Spring Term 1998 - 1999  
+Modern Regression and Multivariate Analysis 15.077  
+Combinatorial Optimization 15.083  
+
+Summer Term 1999  
+Operations Research Pre-Thesis Research OR.THP  
+
+Fall Term 1999 - 2000  
+Special Seminar in Operations Research 15.099
+Thesis OR.THG
+
+Spring Term 1999 - 2000
+Special Seminar in Operations Research 15.099
+Advanced Managerial Communication 15.281  
+Thesis OR.THG  
+
+Summer Term 2000  
+Thesis OR.THG  
+
+Fall Term 2000 - 2001  
+Computational Design I: Theory and Applications 4.201  
+Thesis OR.THG  
+
+Spring Term 2000 - 2001
+Networks for Learning: Regression and Classification 9.520  
+ESL Advanced Workshop in Writing for Science and Engineering 21F.225   
+
 Operations Research Pre-thesis Research OR.THP  
 Thesis OR.THG, 15.THG  
+24/5/1999 Doctoral General Examination completed  
+Graduate Cumulative GPA: 4.9 (on a 5.0 scale)  
 
 ### Asociadas con Licenciado en Ciencias de la Computación, FCEyN, UBA
 Algebra I  
