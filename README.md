@@ -1,3 +1,5 @@
+![1604003204258](https://user-images.githubusercontent.com/3052651/172132934-644bfe75-5693-499d-9506-fafadeb7ea8b.jpg)
+
 # Lic. Hernán Alperin
 Matemático y Geoestadística en la Coordinación del Sistema Geoestadístico  
 De la Dirección Nacional de Metodología Estadística - INDEC  
@@ -32,3 +34,50 @@ sept. 1992 - actualidad
 EGH: Programador de ajustes metodológicos.  
 IPC: Consultor en Matemática y Estadística para la resolución de temas relacionados con la metodología; Responsable IT de los sistemas, instalación de la primera red token ring (NOVELL) para el Sistema.  
 
+### Instituto Junín  
+Operationes y consultor IT   
+dic. 2014 - abr. 2015 · 5 meses  
+BsAs  
+Consultor estratégico de plan de negocios y ventas. Desarrollo de sucursales y crecimiento de plataforma web y publicidad.Consultor estratégico de plan de negocios y ventas. Desarrollo de sucursales y crecimiento de plataforma web y publicidad.
+
+### Viridis LearningViridis Learning  
+Recommendation Algorithms and Career-Path Scaffolding
+feb. 2014 - dic. 2014 · 11 meses  
+up in the Cloudup  
+Desarrollo de Algoritmos de Recomendación para la asistencia a estudiante y mano de obra medianamente calificada a elegir la mejor educación con mayor potencial para obtener prospectivos posiciones laborales y ayudarlos a construir su carrera laboral hacia sus objetivos. Este fue implementado usando el estado del arte en Algoritmos Matemáticos y de las Ciencias de Computación, observando la demanda del mercado laboral, la oferta educativa y las inclinaciones profesionales de los usuarios accediendo a las Bases de datos del U.S. Bureau of Labor Statistics and PayScale.com
+
+### Deviget LLC  
+Programador Matemático
+feb. 2014 - dic. 2014 · 11 meses  
+Latin AmericaLatin America
+Desarrollo de Algoritmos matemáticos y consultor IT para firmas globales
+
+### Programa Nacional Mapa Educativo, Ministerio de Educación de la Nación
+Consultor y Desarrollador GIS  
+ago. 2010 - mar. 2013 · 2 años 8 meses  
+Paraguay 1657 caba, ArgentinaParaguay 1657 caba, Argentina  
+Análisis, Diseño y Especificación de los Sistemas de Argentina Trabaja, Televisión Digital Abierta de la Comisión Nacional de Telecomunicaciones (tdaCNC). Asesoramiento para la migración de la base de dato del Archivo de la Memoria sobre el Terrorismo de Estado.
+Desarrollo de Interfase de geocodificación web usando google-api,
+Aplicaciones sobre GNU-Linux, php y PostGIS para la generación asistida de mapas temáticos en estandar svg, y del Portal del Mapa Educativo Nacional en el sitio oficial del Ministerio de Educación.
+
+##Educación
+
+### ![1519856414204](https://user-images.githubusercontent.com/3052651/172134360-53741e84-2ad5-45e4-abb4-093f545d5664.jpg)
+Massachusetts Institute of Technology  
+Doctorado (PhD), Operations Research: Investigación Operativa  
+1997 - 2001  
+Actividades y grupos: Teaching and Research AssitantActividades y grupos: Teaching and Research Assitant
+
+### ![1519861386584](https://user-images.githubusercontent.com/3052651/172134647-d0e7a77b-b9e5-49d3-ba88-aa79b31716bc.jpg)
+Universidad de Buenos Aires - Facultad de Ciecias Exactas y Naturales  
+Licenciado, Ciencias de la computación  
+1989 - 1994  
+Titulación: 8.40 sobre 10 (Diploma de Honor)  
+Actividades y grupos: Consejero Directivo por el Claustro Estudiantil  
+
+#### Licenciatura en Ciencias Biológicas, FCEyN, UBA  
+Licenciatura, Ciencias Biológicas  
+1987 - 1989  
+Titulación: 9.45 sobre 10
+Actividades y grupos: CECEN  
+miembro de la agrupación de estudiantes AEI. A cargo del centro de copiado del CECEN.  
