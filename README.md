@@ -1,5 +1,5 @@
 
-<img src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/twister.jpg>
+<img width="100%" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/twister.jpg">
 
 <img width="50" alt="FECyN" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/FCEyN.jpg">
 
