@@ -1,5 +1,5 @@
-https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/FCEyN.jpg
-[<img src="./blob/main/logos/FCEyN.jpg" width="30" />](./blob/main/logos/FCEyN.jpg)
+
+<img width="30" alt="FECyN" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/FCEyN.jpg">
 
 # Lic. Hernán Alperin
 Matemático y Geoestadística  
