@@ -111,91 +111,95 @@ Validada por 2 compañeros de INDEC Argentina
 
 - GIS
 13 validaciones
-Web Applications
+
+- Web Applications
 11 validaciones
-SQL
+
+- SQL
 21 validaciones
-PHP4/5
+
+- PHP4/5
 Ha superado la evaluación de aptitudes de LinkedIn
 5 validaciones
+
 Unix Shell Scripting
 5 validaciones
+
 Joomla
 University Teaching
-3 validaciones
+3 validaciones,
 Open Source
-11 validaciones
+11 validaciones,
 Programming
-13 validaciones
+13 validaciones,
 Research
-4 validaciones
+4 validaciones,
 Algorithms
-5 validaciones
+5 validaciones,
 Databases
-6 validaciones
+6 validaciones,
 Computer Science
-4 validaciones
+4 validaciones,
 Modeling
-3 validaciones
+3 validaciones,
 Applied Mathematics
-2 validaciones
+2 validaciones,
 Bash
-4 validaciones
+4 validaciones,
 Spatial Databases
-2 validaciones
+2 validaciones,
 PHP
 Ha superado la evaluación de aptitudes de LinkedIn
-6 validaciones
+6 validaciones,
 Interdisciplinary Teaching
-1 validación
+1 validación,
 Scientific Writing
-2 validaciones
+2 validaciones,
 Mathematics
-3 validaciones
+3 validaciones,
 Optimizations
-2 validaciones
+2 validaciones,
 Vim
-1 validación
+1 validación,
 Mathematical Programming
-1 validación
+1 validación,
 Operations Research
-2 validaciones
+2 validaciones,
 Microsoft Excel
-1 validación
+1 validación,
 Lotus 123
-1 validación
+1 validación,
 Microsoft Word
-1 validación
+1 validación,
 Fortran
-1 validación
+1 validación,
 DOS
-2 validaciones
+2 validaciones,
 Turbo Pascal
-1 validación
+1 validación,
 C++ Language
-1 validación
+1 validación,
 Regular Expressions
-1 validación
+1 validación,
 svn
-2 validaciones
+2 validaciones,
 jQuery
-3 validaciones
+3 validaciones,
 MapServer
-2 validaciones
-
-HTML 5
+2 validaciones,
+HTML 5,
 English
-1 validación
-Redmine
-SVG
+1 validación,
+Redmine,
+SVG,
 1 validación
 Team Management
-1 validación
+1 validación,
 Web Development
-1 validación
+1 validación,
 Aplicaciones Web
-1 validación
+1 validación,
 Desarrollo web
-2 validaciones
+2 validaciones,
 Sistema de información geográfica
-2 validaciones
+2 validaciones.
