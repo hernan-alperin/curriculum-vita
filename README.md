@@ -93,36 +93,36 @@ participación en la organizción de las FOSS4G Argentina
 
 ## Conocimientos y aptitudes validadas cpor colegas en LikedIn 
 
-- PostgreSQL  
-Validada por Jonathan Borda y 3 personas más con experiencia en este campo  
+- PostgreSQL, 
+Validada por Jonathan Borda y 3 personas más con experiencia en este campo,
 24 validaciones
 
-- PostGIS  
-Validada por Mauricio Miranda y 2 personas más con experiencia en este campo  
+- PostGIS,
+Validada por Mauricio Miranda y 2 personas más con experiencia en este campo,
 19 validaciones
 
-- Linux
-Validada por Horacio Arroyo y 1 persona más con experiencia en este campo  
-Validada por 2 compañeros de INDEC Argentina  
+- Linux, 
+Validada por Horacio Arroyo y 1 persona más con experiencia en este campo y 
+validada por 2 compañeros de INDEC Argentina,
 18 validaciones
 
-- JavaScript  
+- JavaScript,
 15 validaciones
 
-- GIS
+- GIS,
 13 validaciones
 
-- Web Applications
+- Web Applications,
 11 validaciones
 
-- SQL
+- SQL,
 21 validaciones
 
-- PHP4/5
-Ha superado la evaluación de aptitudes de LinkedIn
+- PHP4/5,
+Ha superado la evaluación de aptitudes de LinkedIn,
 5 validaciones
 
-- Unix Shell Scripting
+- Unix Shell Scripting,
 5 validaciones
 
 - Otras: Joomla
