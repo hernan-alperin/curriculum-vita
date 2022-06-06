@@ -244,56 +244,56 @@ Mathematicians and engineers have developed in a joint research project a soluti
 
 ## Cursos y Materias
 ### Asociados con MIT
-Traffic Networks 1.961
+Traffic Networks 1.961  
 Applied Probability 6.431  
-Introduction to Mathematical Programming 6.251
-Nonlinear Programming 15.084
-Advanced Managerial Communication 15.281  
-Advanced Workshop in Writing for Science and Engineering 21F.225  
-Combinatorial Optimization 15.083
-Computational Design I: Theory and Applications 4.201
-Discrete Stochastic Processes 6.262
-Introduction to Financial Economics
-German II
-Logistical and Transportation Planning Methods 15.073
-Modern Regression and Multivariate Analysis 15.077
-Networks for Learning: Regression and Classification 9.520
-Special Seminars in Applied Probability and Stochastic Processes (Asymptotic Methods for Stochastic Processes - Data Mining, Statistics and Optimization) 15.098
-Statistical Theory and Methodology 15.076
-Operations Research Pre-thesis Research OR.THP
-Thesis OR.THG, 15.THG
+Introduction to Mathematical Programming 6.251  
+Nonlinear Programming 15.084  
+Advanced Managerial Communication 15.281   
+Advanced Workshop in Writing for Science and Engineering 21F.225   
+Combinatorial Optimization 15.083  
+Computational Design I: Theory and Applications 4.201  
+Discrete Stochastic Processes 6.262  
+Introduction to Financial Economics  
+German II  
+Logistical and Transportation Planning Methods 15.073  
+Modern Regression and Multivariate Analysis 15.077  
+Networks for Learning: Regression and Classification 9.520  
+Special Seminars in Applied Probability and Stochastic Processes (Asymptotic Methods for Stochastic Processes - Data Mining, Statistics and Optimization) 15.098  
+Statistical Theory and Methodology 15.076  
+Operations Research Pre-thesis Research OR.THP  
+Thesis OR.THG, 15.THG  
 
 ### Asociadas con Licenciado en Ciencias de la Computación, FCEyN, UBA
-Algebra I
-Análisis de Sistemas
-Arquitecturas y Sistemas Operativos
-Bases de Datos
-Cálculo Avanzado
-Cálculo I, II
-Especificaciones y Diseño de Software
-Geometría I
-Inteligencia Artificial
-Investigación Operativa
-Laboratorios I - VI, VIIA, VIIIA
-Lógica
-Organización del Computador
-Probabilidades y Estadística
-Programación de Computadores I - II
-Redes de Información
-Seminario sobre Cambio de Creencias
-Teoría de Lenguages y Autómatas
-Tesis de Grado: Combinación de Pronósticos de Series de Tiempo
+Algebra I  
+Análisis de Sistemas  
+Arquitecturas y Sistemas Operativos  
+Bases de Datos  
+Cálculo Avanzado  
+Cálculo I, II  
+Especificaciones y Diseño de Software  
+Geometría I  
+Inteligencia Artificial  
+Investigación Operativa  
+Laboratorios I - VI, VIIA, VIIIA  
+Lógica  
+Organización del Computador  
+Probabilidades y Estadística   
+Programación de Computadores I - II  
+Redes de Información  
+Seminario sobre Cambio de Creencias  
+Teoría de Lenguages y Autómatas  
+Tesis de Grado: Combinación de Pronósticos de Series de Tiempo  
 
 ### Asociada con Licenciatura en Ciencias Biológicas, FCEyN, UBA
-Biometría
-Botánica
-Ecología General
-Elementos de Cálculo Numérico
-Física I - II
-Genética I
-Introducción a la Biología Celular y Molecular
-Microbiología e InmunologíaMicrobiología e Inmunología
-Química Biológica
-Química General e Inorgánica
-Química Orgánica
-Virología
+Química General e Inorgánica  
+Introducción a la Biología Celular y Molecular  
+Física I - II  
+Química Orgánica  
+Química Biológica  
+Biometría  
+Botánica  
+Ecología General  
+Elementos de Cálculo Numérico  
+Genética I  
+Microbiología e Inmunología  
+Virología  
