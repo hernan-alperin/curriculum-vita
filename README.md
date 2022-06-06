@@ -46,16 +46,19 @@ dic. 2014 - abr. 2015 · 5 meses
 CABA  
 Consultor estratégico de plan de negocios y ventas. Desarrollo de sucursales y crecimiento de plataforma web y publicidad.
 
-### Viridis LearningViridis Learning  
+### Viridis LearningViridis Learning
+![viridis](https://user-images.githubusercontent.com/3052651/172168186-1efa39d1-7aac-4151-8908-bb345ea80b4f.png)
 Recommendation Algorithms and Career-Path Scaffolding
 feb. 2014 - dic. 2014 · 11 meses  
 up in the Cloudup  
 Desarrollo de Algoritmos de Recomendación para la asistencia a estudiante y mano de obra medianamente calificada a elegir la mejor educación con mayor potencial para obtener prospectivos posiciones laborales y ayudarlos a construir su carrera laboral hacia sus objetivos. Este fue implementado usando el estado del arte en Algoritmos Matemáticos y de las Ciencias de Computación, observando la demanda del mercado laboral, la oferta educativa y las inclinaciones profesionales de los usuarios accediendo a las Bases de datos del U.S. Bureau of Labor Statistics and PayScale.com
 
 ### Deviget LLC  
+![1519895166415](https://user-images.githubusercontent.com/3052651/172168738-46fb5acd-d522-4b97-9971-0c996e335e95.jpg)  
+![20994125_1748198545209648_1408515848547040896_n](https://user-images.githubusercontent.com/3052651/172168773-d16c42ea-b5d5-453d-995a-9915244f416e.png)  
 Programador Matemático
 feb. 2014 - dic. 2014 · 11 meses  
-Latin AmericaLatin America
+Latin America
 Desarrollo de Algoritmos matemáticos y consultor IT para firmas globales
 
 ### Programa Nacional Mapa Educativo, Ministerio de Educación de la Nación
