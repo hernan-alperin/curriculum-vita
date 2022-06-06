@@ -59,7 +59,7 @@ up in the Cloud
 Desarrollo de Algoritmos de Recomendación para la asistencia a estudiante y mano de obra medianamente calificada a elegir la mejor educación con mayor potencial para obtener prospectivos posiciones laborales y ayudarlos a construir su carrera laboral hacia sus objetivos. Este fue implementado usando el estado del arte en Algoritmos Matemáticos y de las Ciencias de Computación, observando la demanda del mercado laboral, la oferta educativa y las inclinaciones profesionales de los usuarios accediendo a las Bases de datos del U.S. Bureau of Labor Statistics and PayScale.com
 
 ### Deviget LLC  
-<img width="100" alt="Deviget LLC" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/deviget%20original.jpg"> 
+<img width="100" alt="Deviget LLC" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/deviget original.jpg"> 
 Programador Matemático
 feb. 2014 - dic. 2014 · 11 meses  
 Latin America
@@ -126,11 +126,11 @@ Doctorado (PhD), Operations Research: Investigación Operativa
 1997 - 2001  
 Actividades y grupos: Teaching and Research AssitantActividades y grupos: Teaching and Research Assitant
 
-### Universidad de Buenos Aires 
-<img width="100" alt="Universidad de Buenos Aires" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/UBA.jpg">
-#### Facultad de Ciecias Exactas y Naturales
-<img width="100" alt="Facultad de Ciencias Exactas y Naturales, UBA" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/FCEyN.jpg">
-##### Licenciado, Ciencias de la computación  
+### Universidad de Buenos Aires  
+<img width="100" alt="Universidad de Buenos Aires" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/UBA.jpg">  
+#### Facultad de Ciecias Exactas y Naturales  
+<img width="100" alt="Facultad de Ciencias Exactas y Naturales, UBA" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/FCEyN.jpg">  
+##### Licenciado, Ciencias de la computación   
 1989 - 1994  
 Titulación: 8.40 sobre 10 (Diploma de Honor)  
 Actividades y grupos: Consejero Directivo por el Claustro Estudiantil  
