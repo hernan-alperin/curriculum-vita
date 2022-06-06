@@ -4,7 +4,7 @@
 Matemático y Geoestadística  
 en la Coordinación del Sistema Geoestadístico  
 de la Dirección Nacional de Metodología Estadística - INDEC  
-<div style="width: 100; height: 100">
+<div style="width: 30; height: 30">
  
 ![1627071732502](https://user-images.githubusercontent.com/3052651/172166583-24787df4-d4ba-4737-8d1f-7a67c0c5973d.jpg)
 
