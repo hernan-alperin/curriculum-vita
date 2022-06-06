@@ -60,6 +60,45 @@ Análisis, Diseño y Especificación de los Sistemas de Argentina Trabaja, Telev
 Desarrollo de Interfase de geocodificación web usando google-api,
 Aplicaciones sobre GNU-Linux, php y PostGIS para la generación asistida de mapas temáticos en estandar svg, y del Portal del Mapa Educativo Nacional en el sitio oficial del Ministerio de Educación.
 
+
+### INAP, Secretaría de la Gestión Pública, Jefatura de Gabinete de Ministros
+Profesor
+nov. 2012 - 2013 · 3 meses
+Av. Roque Saenz Peña (Diag. Norte) 511, caba, argentina
+Módulo Postgres - PostGIS para el curso de interoperatibilidad GIS para el Grupo de Productores de Información Primaria (GPIP)
+
+### Humboldt University of Berlin
+![1519856057386](https://user-images.githubusercontent.com/3052651/172163333-97c6c99d-fa1c-4d9b-9ba0-dc7bec1c203d.jpg)
+Universität zu Berlin  
+Investigador  
+2001 - 2004 · 3 años 1 mes
+Berlin, Alemania
+Investigación en Optimización Global y Desarrollo del Software LaGO, ver sección Publicaciones.
+
+### Massachusetts Institute of Technology
+Ayudante de Cátedra y Asistente de Investigación,  
+ORC - MIT  
+1997 - 2001 · 4 años 1 mes  
+Cambridge, MA  
+#### Jefe de Trabajos prácticos (responsable del dictado las clases prácticas, consultas y evaluación de exámenes) en los siguientes cursos para doctorados y maestrías:
+15.081J Introducción a la Programación Matemática dictado por Dimitris Bertsimas; y 1.961 Redes de Transito, dictado por Ismael Chabini.
+Preparado de material para el programa de de educación a distancia de la alianza Singapur - MIT para la materia 5.093 Métodos de Optimization. 
+
+#### Asistente de Investigación el los siguientes proyectos.
+Minimizador de stress de los estudiantes bajo la supervisión de Richard Larson, una aplicación web para el armado del cronograma de exámenes y entregas de prácticas de estudio.
+Programación Matemática bajo la supervisión de Dimitris Bertsimas, formulación matemática para solucionar problemas con función objetivo del tipo lineal y cuadrático con restricciones lineales y variables enteras y continuas usando las condiciones KKT, aplicación para el armado de portfolios de máximo retorno esperado con mínimo riesgo, mejor subconjunto de variables de regresión en Big Data usando técnicas de Programación Matemática.
+Transporte Urbano supervisado por Michel Bierlaire: participación en el desarrollo de sistemas de transporte inteligente aplicado a las arterias centrales de Boston, modelado y simulación del comportamiento de la densidad de tránsito en el proyecto "Big Dig".
+Jefe de Trabajos prácticos (responsable del dictado las clases prácticas, consultas y evaluación de exámenes) en los siguientes cursos para doctorados y maestrías: 15.081J Introducción a la Programación Matemática dictado por Dimitris Bertsimas; y 1.961 Redes de Transito, dictado por Ismael Chabini. Preparado de material para el programa de de educación a distancia de la alianza Singapur - MIT para la materia 5.093 Métodos de Optimization. Asistente de Investigación el los siguientes proyectos. Minimizador de stress de los estudiantes bajo la supervisión de Richard Larson, una aplicación web para el armado del cronograma de exámenes y entregas de prácticas de estudio. Programación Matemática bajo la supervisión de Dimitris Bertsimas, formulación matemática para solucionar problemas con función objetivo del tipo lineal y cuadrático con restricciones lineales y variables enteras y continuas usando las condiciones KKT, aplicación para el armado de portfolios de máximo retorno esperado con mínimo riesgo, mejor subconjunto de variables de regresión en Big Data usando técnicas de Programación Matemática. Transporte Urbano supervisado por Michel Bierlaire: participación en el desarrollo de sistemas de transporte inteligente aplicado a las arterias centrales de Boston, modelado y simulación del comportamiento de la densidad de tránsito en el proyecto "Big Dig". 
+
+### Facultad de Ciencias Exactas y Naturales, UBA
+Jefe de Trabajos Prácticos  
+Facultad de Ciencias Exactas y Naturales, UBA  
+1989 - 1995 · 6 años 1 mes  
+Ciudad Universitaria  
+Ayudante de 2da, 1ra y Jefe de Trabajos Prácticos en
+Matemática del CBC, Análisis I del CBC, Teoría de Lenguajes y Autómatas, Investigación Operativa
+y Laboratorio II en el Dpto. de Computación
+
 ## Educación
 
 ### Massachusetts Institute of Technology  
