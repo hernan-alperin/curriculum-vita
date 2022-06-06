@@ -128,12 +128,15 @@ Actividades y grupos: Teaching and Research AssitantActividades y grupos: Teachi
 
 ### Universidad de Buenos Aires  
 <img width="100" alt="Universidad de Buenos Aires" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/UBA.jpg">  
+
 #### Facultad de Ciecias Exactas y Naturales  
 <img width="100" alt="Facultad de Ciencias Exactas y Naturales, UBA" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/FCEyN.jpg">  
+
 ##### Licenciado, Ciencias de la computación   
 1989 - 1994  
 Titulación: 8.40 sobre 10 (Diploma de Honor)  
 Actividades y grupos: Consejero Directivo por el Claustro Estudiantil  
+
 ##### Licenciatura en Ciencias Biológicas, FCEyN, UBA  
 Licenciatura, Ciencias Biológicas  
 1987 - 1989  
