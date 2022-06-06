@@ -6,9 +6,7 @@ Matemático y Geoestadística
 en la Coordinación del Sistema Geoestadístico  
 de la Dirección Nacional de Metodología Estadística - INDEC  
  
-![1627071732502](https://user-images.githubusercontent.com/3052651/172166583-24787df4-d4ba-4737-8d1f-7a67c0c5973d.jpg)
-<img width="100%" alt="Instituto de Estadísticas y Censos" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/INDEC.jpg">
-
+<img width="100" alt="Instituto de Estadísticas y Censos" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/INDEC.jpg">
 
 J. A. Roca 609 oficina 701 C1067ABB  
 oficina +54-11-4349-9705 interno 49705  
