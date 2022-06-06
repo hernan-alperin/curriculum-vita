@@ -19,20 +19,21 @@ Mis objetivos son aportar desde las Ciencias de la Computación, la Investigaci�
  
 ### INDEC
 29 años 10 meses  
-Consultor de desarrollo de software  
+Consultor en Matemática, Tecnología de la Información y Geoestadística; y lider en desarrollo de proyectos.  
+Desarrollo de Sistemas de Información Geoestadística sobre plataforma web y software libre.  
 sept. 1992 - actualidad
--	Desarrollo de Sistemas de Información Geoestadística sobre plataforma web y software libre  
-2022: Asistencia remota en la coordinación del equipo de referentes provinciales para la segmentación del censo. Dirección de programador Jr. Incorporado en diciembre 2021.  
-2020 – 2021: Coparticipación en el desarrollo de la interfase para la Segmentación y la carga de la cartografía y listados para el Censo2022  
-2018 – 2019: Desarrollo del Core del del Segmentador para el Censo de Población 2020 en Open Source Software con herramientas git  
-2015 - 2017: Coordinación del Sistema Geoestadístico  
+
+- 2022: Asistencia remota en la coordinación del equipo de referentes provinciales para la segmentación del censo. Dirección de programador Jr. Incorporado en diciembre 2021.  
+- 2020 – 2021: Coparticipación en el desarrollo de la interfase para la Segmentación y la carga de la cartografía y listados para el Censo2022  
+- 2018 – 2019: Desarrollo del Core del del Segmentador para el Censo de Población 2020 en Open Source Software con herramientas git  
+- 2015 - 2017: Coordinación del Sistema Geoestadístico  
 -	2009 - 2015: Sistemas de Información Geográfica, Dirección Técnica  
 -	2006 - 2009: Mapa Dinámico. Dirección de Informática. Desarrollo de Sistemas de Información Geoestadística sobre plataforma web y softwar e libre  
--   2005 - 2006: Dirección Nacional de Unidades Económicas, Asesor informático de la Dir. de Metodología  
+- 2005 - 2006: Dirección Nacional de Unidades Económicas, Asesor informático de la Dir. de Metodología  
 -	Entre 1997 y 2005: Estudios y Capacitación en el extranjero, ver más abajo.  
 -	Responsable Informático y Consultor en Matemática en EGH e IPC  
-EGH: Programador de ajustes metodológicos.  
-IPC: Consultor en Matemática y Estadística para la resolución de temas relacionados con la metodología; Responsable IT de los sistemas, instalación de la primera red token ring (NOVELL) para el Sistema.  
+- 1994 - 1997: IPC, Consultor en Matemática y Estadística para la resolución de temas relacionados con la metodología; Responsable IT de los sistemas, instalación de la primera red token ring (NOVELL) para el Sistema.  
+- 1992 - 1994: EGH, Programador de ajustes metodológicos.  
 
 ### Instituto Junín  
 Operationes y consultor IT   
@@ -85,10 +86,13 @@ Cambridge, MA
 Preparado de material para el programa de de educación a distancia de la alianza Singapur - MIT para la materia 5.093 Métodos de Optimization. 
 
 #### Asistente de Investigación el los siguientes proyectos.
-Minimizador de stress de los estudiantes bajo la supervisión de Richard Larson, una aplicación web para el armado del cronograma de exámenes y entregas de prácticas de estudio.
-Programación Matemática bajo la supervisión de Dimitris Bertsimas, formulación matemática para solucionar problemas con función objetivo del tipo lineal y cuadrático con restricciones lineales y variables enteras y continuas usando las condiciones KKT, aplicación para el armado de portfolios de máximo retorno esperado con mínimo riesgo, mejor subconjunto de variables de regresión en Big Data usando técnicas de Programación Matemática.
-Transporte Urbano supervisado por Michel Bierlaire: participación en el desarrollo de sistemas de transporte inteligente aplicado a las arterias centrales de Boston, modelado y simulación del comportamiento de la densidad de tránsito en el proyecto "Big Dig".
-Jefe de Trabajos prácticos (responsable del dictado las clases prácticas, consultas y evaluación de exámenes) en los siguientes cursos para doctorados y maestrías: 15.081J Introducción a la Programación Matemática dictado por Dimitris Bertsimas; y 1.961 Redes de Transito, dictado por Ismael Chabini. Preparado de material para el programa de de educación a distancia de la alianza Singapur - MIT para la materia 5.093 Métodos de Optimization. Asistente de Investigación el los siguientes proyectos. Minimizador de stress de los estudiantes bajo la supervisión de Richard Larson, una aplicación web para el armado del cronograma de exámenes y entregas de prácticas de estudio. Programación Matemática bajo la supervisión de Dimitris Bertsimas, formulación matemática para solucionar problemas con función objetivo del tipo lineal y cuadrático con restricciones lineales y variables enteras y continuas usando las condiciones KKT, aplicación para el armado de portfolios de máximo retorno esperado con mínimo riesgo, mejor subconjunto de variables de regresión en Big Data usando técnicas de Programación Matemática. Transporte Urbano supervisado por Michel Bierlaire: participación en el desarrollo de sistemas de transporte inteligente aplicado a las arterias centrales de Boston, modelado y simulación del comportamiento de la densidad de tránsito en el proyecto "Big Dig". 
+Minimizador de stress de los estudiantes bajo la supervisión de Richard Larson, una aplicación web para el armado del cronograma de exámenes y entregas de prácticas de estudio.  
+Programación Matemática bajo la supervisión de Dimitris Bertsimas, formulación matemática para solucionar problemas con función objetivo del tipo lineal y cuadrático con restricciones lineales y variables enteras y continuas usando las condiciones KKT, aplicación para el armado de portfolios de máximo retorno esperado con mínimo riesgo, mejor subconjunto de variables de regresión en Big Data usando técnicas de Programación Matemática.  
+Transporte Urbano supervisado por Michel Bierlaire: participación en el desarrollo de sistemas de transporte inteligente aplicado a las arterias centrales de Boston, modelado y simulación del comportamiento de la densidad de tránsito en el proyecto "Big Dig".  
+Jefe de Trabajos prácticos (responsable del dictado las clases prácticas, consultas y evaluación de exámenes) en los siguientes cursos para doctorados y maestrías: 15.081J Introducción a la Programación Matemática dictado por Dimitris Bertsimas; y 1.961 Redes de Transito, dictado por Ismael Chabini. Preparado de material para el programa de de educación a distancia de la alianza Singapur - MIT para la materia 5.093 Métodos de Optimization.  
+Asistente de Investigación en los siguientes proyectos. Minimizador de stress de los estudiantes bajo la supervisión de Richard Larson, una aplicación web para el armado del cronograma de exámenes y entregas de prácticas de estudio.  
+Programación Matemática bajo la supervisión de Dimitris Bertsimas, formulación matemática para solucionar problemas con función objetivo del tipo lineal y cuadrático con restricciones lineales y variables enteras y continuas usando las condiciones KKT, aplicación para el armado de portfolios de máximo retorno esperado con mínimo riesgo, mejor subconjunto de variables de regresión en Big Data usando técnicas de Programación Matemática.  
+Transporte Urbano supervisado por Michel Bierlaire: participación en el desarrollo de sistemas de transporte inteligente aplicado a las arterias centrales de Boston, modelado y simulación del comportamiento de la densidad de tránsito en el proyecto "Big Dig". 
 
 ### Facultad de Ciencias Exactas y Naturales, UBA
 Jefe de Trabajos Prácticos  
