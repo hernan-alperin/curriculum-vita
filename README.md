@@ -41,6 +41,7 @@ sept. 1992 - actualidad
 - 1992 - 1994: EGH, Programador de ajustes metodológicos.  
 
 ### Instituto Junín  
+![11024486_854580094604087_4985728558066497244_n](https://user-images.githubusercontent.com/3052651/172169004-3871b180-36bf-4ccb-bfa3-87c4ae6e5e39.png)  
 Operationes y consultor IT   
 dic. 2014 - abr. 2015 · 5 meses  
 CABA  
