@@ -295,8 +295,8 @@ Geoscience & Geospatial Information Project and Capability Building, Workgroup C
 Hernán es una persona que maneja el Spatial SQL en forma muy clara y eficiente de modo tal que es capaz de generar consultas SQL complejas.
 
 ## Publicaciones
-1600 menciones encontradas en academia.edu 
-[](https://hu-berlin.academia.edu/HernanAlperin)
+1600 menciones encontradas en academia.edu  
+[Academia.edu](https://hu-berlin.academia.edu/HernanAlperin)
 
 ### Lagrangian Smoothing Heuristics for Max-Cut 
 Journal of Heuristics, 2005  
@@ -310,6 +310,14 @@ The paper describes a software package called LaGO for solving nonconvex mixed i
 ### A Relaxation-Based Heuristic for the Design of Cost-Effective Energy Conversion Systems
 Energy, Volume 31, Issues 10–11, August 2006, Pages 1346–1357 ECOS 2003 · 1 ene. 2003
 Mathematicians and engineers have developed in a joint research project a solution approach for performing simultaneous structural and design variable optimization in the design of cost-effective complex energyconversionsystems. The paper presents a methodology and an application to the design of a combined-cycle power plant that provides fixed amounts of electricity and steam for a paper factory. A superstructure that has embedded several potential configurations of such a cogeneration system is used to minimize the total cost of the plant products. The design problem is formulated as a nonconvex mixed-integer nonlinear program (MINLP), and solved via a rounding heuristicbased on an automatically generated convex relaxation of the given problem. Utilities and the process industry are expected to benefit from such a MINLP optimization technique.
+
+## Algunas presentaciones en Congresos
+
+- Congreso de Investigación Operativa, Havanna, Cuba Octubre 2002
+- VI encuentro de IDERA, Tucuman 13 y 14 de Octubre de 2011
+- FOSS4G Argentina, IGN, CABA 2013
+- X IDERA Mendoza, 14 y 15 de Mayo de 2015
+
 
 ## Cursos y Materias
 ### Asociados con MIT (id 965 990 672)
