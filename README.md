@@ -1,4 +1,4 @@
-![1604003204258](https://user-images.githubusercontent.com/3052651/172132934-644bfe75-5693-499d-9506-fafadeb7ea8b.jpg)
+https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/FCEyN.jpg
 
 # Lic. Hernán Alperin
 Matemático y Geoestadística  
