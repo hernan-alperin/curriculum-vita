@@ -6,16 +6,18 @@ Nacido argentino el jueves 13 de febrero de 1969
 DNI 20.606.855  
 Matemático y Geoestadístico en la Coordinación del Sistema Geoestadístico de la Dirección Nacional de Metodología Estadística - INDEC  
 
-Mis objetivos son 
+## Objetivos
 - aportar desde las Ciencias de la Computación, la Investigación Operativa, la Optimización y la Programación Matemática a la metodología de los operativos que se realizan en el Estado Nacional; 
 - seguir capacitándome en una posición de liderazgo dentro de un productivo equipo de trabajo; y 
 - capacitar a mis colegas en Área de Geoestadístuca en el uso de herramientas de Open Source Software.
 
+## Credenciales
 -	Investigador en el Institut für Mathematik de la Humboldt Universität-Berlin, Alemania.  2001 - 2004
 -	Candidato a Philosophy Doctor en el Operations Research Center, Massachusetts Institute of Technology, EEUU. 1997 - 2000  
 -	Licenciado en Ciencias de la Computación, Facultad de Ciencia Exactas y Naturales - Universidad de Buenos Aires. 3/11/94 
 - Analista Universitario de Computación, Facultad de Ciencia Exactas y Naturales - Universidad de Buenos Aires. Mayo 1992  
 
+## Contacto
 <img width="100" alt="Instituto de Estadísticas y Censos" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/INDEC.jpg">
 
 J. A. Roca 609 oficina 701 C1067ABB  
