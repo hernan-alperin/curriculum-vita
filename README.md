@@ -374,28 +374,41 @@ Thesis OR.THG, 15.THG
 Graduate Cumulative GPA: 4.9 (on a 5.0 scale)  
 
 ### Asociadas con Licenciado en Ciencias de la Computación, FCEyN, UBA
-Algebra I  
-Cálculo I, II  
-Programación de Computadores I - II  
-Laboratorios I - VI, VIIA, VIIIA  
-Probabilidades y Estadística   
-Análisis de Sistemas  
-Arquitecturas y Sistemas Operativos  
-Bases de Datos  
-Cálculo Avanzado  
-Especificaciones y Diseño de Software  
-Geometría I  
-Inteligencia Artificial  
-Investigación Operativa  
-Lógica  
-Organización del Computador  
-Redes de Información  
-Seminario sobre Cambio de Creencias  
-Teoría de Lenguages y Autómatas  
-Tesis de Grado: Combinación de Pronósticos en Series de Tiempo Noviembre 1994 
+| asignatura                                     | nota  |  fecha  |
+|:--                                             |   --: |  ----:  |
+|Laboratorio I                                   | 10    |  2/4/90 |
+|Laboratorio II                                  |  9    | 21/8/90 |
+|Organización del Computador                     |  9    | 21/8/90 |
+|Programación de Computadores I                  |  8    | 22/8/90 |
+|Algebra I                                       |  9    | 22/2/91 | 
+|Análisis II                                     | 10    |  1/3/91 |
+|Lógica                                          |  8    |  1/3/91 |
+|Programación de Computadores II                 |  6    | 13/3/91 |
+|Matemática Discreta                             |  9    | 14/3/91 |
+|Laboratorio III                                 |  9    | 26/3/91 |
+|Análisis de Sistemas                            |  8    | 30/8/91 |
+|Laboratorio IV                                  |  4    | 15/10/91|
+|Especificaciones y Diseño de Software           |  7    | 13/12/91|
+|Arquitecturas y Sistemas Operativos             | 10    | 13/12/91|
+|Probabilidades y Estadística                    |  9    | 18/2/92 |
+|Laboratorio V                                   |  6    | 28/2/92 |
+|Teoría de Lenguages y Autómatas                 | 10    | 19/3/93 |
+|Laboratorio VI                                  |  7    | 20/3/92 |
+|Laboratorio VIIA                                |  9    | 13/8/92 |
+|Geometría I                                     |  8    | 23/2/93 |
+|Inteligencia Artificial                         |  5    |  9/3/93 |
+|Bases de Datos                                  |  7    | 18/3/93 |
+|Laboratorio VIIIA                               | 10    | 3/6/93  |
+|Investigación Operativa                         |  8    | 13/8/93 |
+|Cálculo Avanzado                                | 10    | 17/8/93 |
+|Seminario sobre Cambio de Creencias 
+y Lógicas no Monótonas                           |  8    | 21/10/93|
+|Redes de Información                            |  9    | 16/12/93|
+|Tesis de Licenciatura: 
+Combinación de Pronósticos en Series de Tiempo   | 10    | 3/11/94 |
 
 ### Asociada con Licenciatura en Ciencias Biológicas, FCEyN, UBA
-| materia                                        | nota  |  fecha  |
+| asignatura                                     | nota  |  fecha  |
 |:--                                             |   --: |  ----:  |
 |Química General e Inorgánica                    | 10    | 1/3/88  |
 |Introducción a la Biología Celular y Molecular  | 10    | 30/9/88 |
