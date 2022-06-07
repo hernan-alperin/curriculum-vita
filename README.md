@@ -338,40 +338,48 @@ Mathematicians and engineers have developed in a joint research project a soluti
 |Special Seminar in Operations Research 15.099 |
 | Thesis |
 
-Fall Term Term 1998 - 1999
-Logistical and Transportation Planning Methods 15.073  
-Statistical Theory and Methodology 15.076  
+|Fall Term Term 1998 - 1999|
+| :------------------- |
+|Logistical and Transportation Planning Methods 15.073  |
+|Statistical Theory and Methodology 15.076  |
 
-Spring Term 1998 - 1999  
-Modern Regression and Multivariate Analysis 15.077  
-Combinatorial Optimization 15.083  
+|Spring Term 1998 - 1999  |
+| :------------------- |
+|Modern Regression and Multivariate Analysis 15.077  |
+|Combinatorial Optimization 15.083  |
 
-Summer Term 1999  
-Operations Research Pre-Thesis Research OR.THP  
+|Summer Term 1999  |
+| :------------------- |
+|Operations Research Pre-Thesis Research OR.THP  |
 
-Fall Term 1999 - 2000  
-Special Seminar in Operations Research 15.099
-Thesis OR.THG
+|Fall Term 1999 - 2000  |
+| :------------------- |
+|Special Seminar in Operations Research 15.099|
+|Thesis OR.THG|
 
-Spring Term 1999 - 2000
-Special Seminar in Operations Research 15.099
-Advanced Managerial Communication 15.281  
-Thesis OR.THG  
+|Spring Term 1999 - 2000|
+| :------------------- |
+|Special Seminar in Operations Research 15.099|
+|Advanced Managerial Communication 15.281  |
+|Thesis OR.THG  |
 
-Summer Term 2000  
-Thesis OR.THG  
+|Summer Term 2000|  
+| :------------------- |
+|Thesis OR.THG  |
 
-Fall Term 2000 - 2001  
-Computational Design I: Theory and Applications 4.201  
-Thesis OR.THG  
+|Fall Term 2000 - 2001  |
+| :------------------- |
+|Computational Design I: Theory and Applications 4.201  |
+|Thesis OR.THG  |
 
-Spring Term 2000 - 2001
-Networks for Learning: Regression and Classification 9.520  
-ESL Advanced Workshop in Writing for Science and Engineering 21F.225   
+|Spring Term 2000 - 2001|
+| :------------------- |
+|Networks for Learning: Regression and Classification 9.520  |
+|ESL Advanced Workshop in Writing for Science and Engineering 21F.225   |
+|Operations Research Pre-thesis Research OR.THP  |
+|Thesis OR.THG, 15.THG  |
 
-Operations Research Pre-thesis Research OR.THP  
-Thesis OR.THG, 15.THG  
-24/5/1999 Doctoral General Examination completed  
+24/5/1999 Doctoral General Examination completed    
 Graduate Cumulative GPA: 4.9 (on a 5.0 scale)  
 
 ### Asociadas con Licenciado en Ciencias de la Computación, FCEyN, UBA
