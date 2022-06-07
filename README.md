@@ -5,20 +5,22 @@
 Nacido argentino el jueves 13 de febrero de 1969  
 DNI 20.606.855  
 Matemático y Geoestadístico en la Coordinación del Sistema Geoestadístico de la Dirección Nacional de Metodología Estadística - INDEC  
- 
+
+Mis objetivos son 
+- aportar desde las Ciencias de la Computación, la Investigación Operativa, la Optimización y la Programación Matemática a la metodología de los operativos que se realizan en el Estado Nacional; 
+- seguir capacitándome en una posición de liderazgo dentro de un productivo equipo de trabajo; y 
+- capacitar a mis colegas en Área de Geoestadístuca en el uso de herramientas de Open Source Software.
+
+-	Investigador en el Institut für Mathematik de la Humboldt Universität-Berlin, Alemania.  2001 - 2004
+-	Candidato a Philosophy Doctor en el Operations Research Center, Massachusetts Institute of Technology, EEUU. 1997 - 2000  
+-	Licenciado en Ciencias de la Computación, Facultad de Ciencia Exactas y Naturales - Universidad de Buenos Aires. 3/11/94 
+- Analista Universitario de Computación, Facultad de Ciencia Exactas y Naturales - Universidad de Buenos Aires. Mayo 1992  
+
 <img width="100" alt="Instituto de Estadísticas y Censos" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/INDEC.jpg">
 
 J. A. Roca 609 oficina 701 C1067ABB  
 oficina +54-11-4349-9705 interno 49705  
 celular 15-9-28382725 casa 7524-4828  
-
--	Licenciado en Ciencias de la Computación, Facultad de Ciencia Exactas y Naturales - Universidad de Buenos Aires.  
--	Candidato a Philosophy Doctor en el Operations Research Center, Massachusetts Institute of Technology, EEUU.   
--	Investigador en el Institut für Mathematik de la Humboldt Universität-Berlin, Alemania.  
-
-Mis objetivos son 
-- aportar desde las Ciencias de la Computación, la Investigación Operativa, la Optimización y la Programación Matemática a la metodología de los operativos que se realizan en el Estado Nacional; y 
-- seguir capacitándome en una posición de liderazgo dentro de un productivo equipo de trabajo.
 
 
 ## Experiencia
@@ -110,13 +112,13 @@ Transporte Urbano supervisado por Michel Bierlaire: participación en el desarro
 
 ### Facultad de Ciencias Exactas y Naturales, UBA
 <img width="100" alt="Facultad de Ciencias Exactas y Naturales, UBA" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/FCEyN.jpg">
-Jefe de Trabajos Prácticos  
-Facultad de Ciencias Exactas y Naturales, UBA  
 1989 - 1995 · 6 años 1 mes  
+Jefe de Trabajos Prácticos, Ayudante de 1ra y de 2da  
+Facultad de Ciencias Exactas y Naturales, UBA y Ciclo Básico Común
 Ciudad Universitaria  
-Ayudante de 2da, 1ra y Jefe de Trabajos Prácticos en
-Matemática del CBC, Análisis I del CBC, Teoría de Lenguajes y Autómatas, Investigación Operativa
-y Laboratorio II en el Dpto. de Computación
+en las siguiente materias:  
+Matemática del CBC, Análisis I del CBC; y   
+Teoría de Lenguajes y Autómatas, Investigación Operativa y Laboratorio II en el Dpto. de Computación
 
 ## Educación
 
@@ -371,35 +373,37 @@ Graduate Cumulative GPA: 4.9 (on a 5.0 scale)
 
 ### Asociadas con Licenciado en Ciencias de la Computación, FCEyN, UBA
 Algebra I  
+Cálculo I, II  
+Programación de Computadores I - II  
+Laboratorios I - VI, VIIA, VIIIA  
+Probabilidades y Estadística   
 Análisis de Sistemas  
 Arquitecturas y Sistemas Operativos  
 Bases de Datos  
 Cálculo Avanzado  
-Cálculo I, II  
 Especificaciones y Diseño de Software  
 Geometría I  
 Inteligencia Artificial  
 Investigación Operativa  
-Laboratorios I - VI, VIIA, VIIIA  
 Lógica  
 Organización del Computador  
-Probabilidades y Estadística   
-Programación de Computadores I - II  
 Redes de Información  
 Seminario sobre Cambio de Creencias  
 Teoría de Lenguages y Autómatas  
-Tesis de Grado: Combinación de Pronósticos de Series de Tiempo  
+Tesis de Grado: Combinación de Pronósticos en Series de Tiempo Noviembre 1994 
 
 ### Asociada con Licenciatura en Ciencias Biológicas, FCEyN, UBA
-Química General e Inorgánica  
-Introducción a la Biología Celular y Molecular  
+| materia                                        | nota  |  fecha |
+|:--                                             |   --: |  ----: |
+|Química General e Inorgánica                    | 10    | 1/3/88 |
+|Introducción a la Biología Celular y Molecular  | 10    | 30/9/88|
+Elementos de Cálculo Numérico  
 Física I - II  
 Química Orgánica  
 Química Biológica  
 Biometría  
 Botánica  
 Ecología General  
-Elementos de Cálculo Numérico  
 Genética I  
 Microbiología e Inmunología  
 Virología  
