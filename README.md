@@ -334,8 +334,8 @@ Mathematicians and engineers have developed in a joint research project a soluti
 | :------------------- |
 |Discrete Stochastic Processes 6.262  |
 |Nonlinear Programming 15.084  |
-|Special Seminars in Applied Probability and Stochastic Processes (Asymptotic Methods for Stochastic Processes - Data Mining, Statistics and Optimization) 15.098  |
-|Special Seminar in Operations Research 15.099 |
+|Special Seminars in Applied Probability and Stochastic Processes (Data Mining, Statistics and Optimization) 15.098  |
+|Special Seminar in Operations Research (Asymptotic Methods for Stochastic Processes) 15.099 |
 | Thesis |
 
 |Fall Term Term 1998 - 1999|
@@ -354,12 +354,12 @@ Mathematicians and engineers have developed in a joint research project a soluti
 
 |Fall Term 1999 - 2000  |
 | :------------------- |
-|Special Seminar in Operations Research 15.099|
+|Special Seminar in Operations Research 15.099 |
 |Thesis OR.THG|
 
 |Spring Term 1999 - 2000|
 | :------------------- |
-|Special Seminar in Operations Research 15.099|
+|Special Seminar in Operations Research 15.099 |
 |Advanced Managerial Communication 15.281  |
 |Thesis OR.THG  |
 
