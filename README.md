@@ -166,7 +166,9 @@ Servicio para geocodificar una lista de direcciones en forma asincrónica. Imple
 <img width="100" alt="Mapadinámico" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/web-app-mapas/opex.jpg">
 abr. 2010 - actualidad  
 Asociada con INDEC, se puede ver en 
+
 [OPEX](https://www.indec.gob.ar/indec/web/Nivel4-Tema-1-16-74)
+
 Sitio web para consultar información sobre exportaciones argentinas desde 1995 
 desagregadas por país destino, provincia de origen, año, rubro y producto. 
 Se desarrolló usando free and open source software.
