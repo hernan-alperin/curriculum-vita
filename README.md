@@ -199,7 +199,7 @@ corregiendo errores particulares y sistémicos.
 
 ### Mapas de Exportaciones Argentina por Origen Provincial
 
-<img width="100" alt="Mapadinámico" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/web-app-mapas/opex.jpg">
+<img height="100" alt="Mapadinámico" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/web-app-mapas/opex.jpg">
 
 abr. 2010 - actualidad  
 Asociada con INDEC, se puede ver en 
@@ -230,150 +230,41 @@ Acceso libre vía web. Sistema de Clasificación de Unidades Censales por Indica
 ## Educación
 
 ### Massachusetts Institute of Technology  
+
 <img width="100" alt="Massachusetts Institute of Technology" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/MIT.jpg">
+
 Doctorado (PhD), Operations Research: Investigación Operativa  
 1997 - 2001 · 4 años 
 Actividades y grupos: Teaching and Research AssitantActividades y grupos: Teaching and Research Assitant
 
 ### Universidad de Buenos Aires  
-<img width="100" alt="Universidad de Buenos Aires" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/UBA.jpg">  
-
 #### Facultad de Ciencias Exactas y Naturales  
-<img width="100" alt="Facultad de Ciencias Exactas y Naturales, UBA" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/FCEyN.jpg">  
+
+<p float="left">
+<img height="100" alt="Universidad de Buenos Aires" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/UBA.jpg">  
+<img height="100" alt="Facultad de Ciencias Exactas y Naturales, UBA" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/FCEyN.jpg">  
+</p>
 
 ##### Licenciado, Ciencias de la computación   
-1989 - 1994 · 5 años
+1989 - 1994 · 5 años  
 Titulación: 8.40 sobre 10 (Diploma de Honor)  
 Actividades y grupos: Consejero Directivo por el Claustro Estudiantil  
 
 ##### Licenciatura en Ciencias Biológicas, FCEyN, UBA  
 Licenciatura, Ciencias Biológicas  
-1987 - 1989 · 3 años
-promedio alcanzado: 9.45 sobre 10
+1987 - 1989 · 3 años  
+promedio alcanzado: 9.45 sobre 10  
 Actividades y grupos: CECEN  
 miembro de la agrupación de estudiantes AEI. A cargo del centro de copiado del CECEN.  
 
 ## Voluntariado
 miembro  
 GeoInquietos ArgentinaGeo  
-jun. 2012 - actualidad · 10 años 1 mes  
+2012 - actualidad · 10 años  
 Ciencia y tecnología  
 Reuniones mensuales para compartir experiencias en el uso de software libre para Geomática.
 Organización de la Conferencia FOSS4G BsAs realizada en abril 2013 y en abril 2016 en el Instituto Geográfico Nacional.  
 participación en la organizción de las FOSS4G Argentina
-
-## Conocimientos y aptitudes validadas cpor colegas en LikedIn 
-
-- PostgreSQL, 
-Validada por Jonathan Borda y 3 personas más con experiencia en este campo,
-24 validaciones
-
-- PostGIS,
-Validada por Mauricio Miranda y 2 personas más con experiencia en este campo,
-19 validaciones
-
-- Linux, 
-Validada por Horacio Arroyo y 1 persona más con experiencia en este campo y 
-validada por 2 compañeros de INDEC Argentina,
-18 validaciones
-
-- JavaScript,
-15 validaciones
-
-- GIS,
-13 validaciones
-
-- Web Applications,
-11 validaciones
-
-- SQL,
-21 validaciones
-
-- PHP4/5,
-Ha superado la evaluación de aptitudes de LinkedIn,
-5 validaciones
-
-- Unix Shell Scripting,
-5 validaciones
-
-- Otras: Joomla
-University Teaching
-3 validaciones,
-Open Source
-11 validaciones,
-Programming
-13 validaciones,
-Research
-4 validaciones,
-Algorithms
-5 validaciones,
-Databases
-6 validaciones,
-Computer Science
-4 validaciones,
-Modeling
-3 validaciones,
-Applied Mathematics
-2 validaciones,
-Bash
-4 validaciones,
-Spatial Databases
-2 validaciones,
-PHP
-Ha superado la evaluación de aptitudes de LinkedIn
-6 validaciones,
-Interdisciplinary Teaching
-1 validación,
-Scientific Writing
-2 validaciones,
-Mathematics
-3 validaciones,
-Optimizations
-2 validaciones,
-Vim
-1 validación,
-Mathematical Programming
-1 validación,
-Operations Research
-2 validaciones,
-Microsoft Excel
-1 validación,
-Lotus 123
-1 validación,
-Microsoft Word
-1 validación,
-Fortran
-1 validación,
-DOS
-2 validaciones,
-Turbo Pascal
-1 validación,
-C++ Language
-1 validación,
-Regular Expressions
-1 validación,
-svn
-2 validaciones,
-jQuery
-3 validaciones,
-MapServer
-2 validaciones,
-HTML 5,
-English
-1 validación,
-Redmine,
-SVG,
-1 validación
-Team Management
-1 validación,
-Web Development
-1 validación,
-Aplicaciones Web
-1 validación,
-Desarrollo web
-2 validaciones,
-Sistema de información geográfica
-2 validaciones.
 
 ## Recomendaciones
 ### Luis Piccinali  
@@ -526,6 +417,110 @@ Graduate Cumulative GPA: 4.9 (on a 5.0 scale)
 |Genética I                                      |  7    | 21/12/90|
 |Microbiología e Inmunología                     |  9    | 22/2/91 |
 |Virología                                       | TP aprobados   |         |
+
+## Conocimientos y aptitudes validadas por colegas en LikedIn 
+
+- PostgreSQL, 
+Validada por Jonathan Borda y 3 personas más con experiencia en este campo,
+24 validaciones
+- PostGIS,
+Validada por Mauricio Miranda y 2 personas más con experiencia en este campo,
+19 validaciones
+- Linux, 
+Validada por Horacio Arroyo y 1 persona más con experiencia en este campo y 
+validada por 2 compañeros de INDEC Argentina,
+18 validaciones
+- JavaScript,
+15 validaciones
+- GIS,
+13 validaciones
+- Web Applications,
+11 validaciones
+- SQL,
+21 validaciones
+- PHP 4/5,
+Ha superado la evaluación de aptitudes de LinkedIn,
+5 validaciones
+- Unix Shell Scripting,
+5 validaciones
+- Joomla
+University Teaching
+3 validaciones,
+- Open Source
+11 validaciones,
+- Programming
+13 validaciones,
+- Research
+4 validaciones,
+- Algorithms
+5 validaciones,
+- Databases
+6 validaciones,
+- Computer Science
+4 validaciones,
+- Modeling
+3 validaciones,
+- Applied Mathematics
+2 validaciones,
+- Bash
+4 validaciones,
+- Spatial Databases
+2 validaciones,
+- PHP
+Ha superado la evaluación de aptitudes de LinkedIn
+6 validaciones,
+- Interdisciplinary Teaching
+1 validación,
+- Scientific Writing
+2 validaciones,
+- Mathematics
+3 validaciones,
+- Optimizations
+2 validaciones,
+- Vim
+1 validación,
+- Mathematical Programming
+1 validación,
+- Operations Research
+2 validaciones,
+- Microsoft Excel
+1 validación,
+- Lotus 123
+1 validación,
+- Microsoft Word
+1 validación,
+- Fortran
+1 validación,
+- DOS
+2 validaciones,
+- Turbo Pascal
+1 validación,
+- C++ Language
+1 validación,
+- Regular Expressions
+1 validación,
+- svn
+2 validaciones,
+- jQuery
+3 validaciones,
+- MapServer
+2 validaciones,
+- HTML 5,
+- English
+1 validación,
+- Redmine,
+- SVG,
+1 validación
+- Team Management
+1 validación,
+- Web Development
+1 validación,
+- Aplicaciones Web
+1 validación,
+- Desarrollo web
+2 validaciones,
+- Sistema de información geográfica
+2 validaciones.
 
 ## Idiomas
 
