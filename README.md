@@ -4,46 +4,52 @@
 # Lic. Hernán Alperin
 Nacido argentino el jueves 13 de febrero de 1969  
 DNI 20.606.855  
-Matemático y Geoestadístico en la Coordinación del Sistema Geoestadístico de la Dirección Nacional de Metodología Estadística - INDEC  
+Matemático y Geoestadístico en la Coordinación del Sistema Geoestadístico  
+de la Dirección Nacional de Metodología Estadística - INDEC  
 
 ## Objetivos
-- aportar desde las Ciencias de la Computación, la Investigación Operativa, la Optimización y la Programación Matemática a la metodología de los operativos que se realizan en el Estado Nacional; 
-- seguir capacitándome en una posición de liderazgo dentro de un productivo equipo de trabajo; y 
-- capacitar a mis colegas en Área de Geoestadístuca en el uso de herramientas de Open Source Software.
+- aportar desde las Ciencias de la Computación, la Investigación Operativa, la Optimización y la Programación Matemática 
+a la metodología de los operativos que se realizan en el Estado Nacional; 
+- seguir capacitándome en una posición de liderazgo dentro de un equipo de trabajo productivo; y 
+- capacitar a mis colegas del INDEC en el uso de herramientas de Open Source Software.
 
 ## Credenciales
 -	Investigador en el Institut für Mathematik de la Humboldt Universität-Berlin, Alemania.  2001 - 2004
 -	Candidato a Philosophy Doctor en el Operations Research Center, Massachusetts Institute of Technology, EEUU. 1997 - 2000  
--	Licenciado en Ciencias de la Computación, Facultad de Ciencia Exactas y Naturales - Universidad de Buenos Aires. 3/11/94 
-- Analista Universitario de Computación, Facultad de Ciencia Exactas y Naturales - Universidad de Buenos Aires. Mayo 1992  
+-	Licenciado en Ciencias de la Computación, Facultad de Ciencias Exactas y Naturales - Universidad de Buenos Aires. 3/11/94 
+- Analista Universitario de Computación, Facultad de Ciencias Exactas y Naturales - Universidad de Buenos Aires. Mayo 1992  
 
 ## Contacto
 
 J. A. Roca 609 oficina 701 C1067ABB  
 oficina +54-11-4349-9705 interno 49705  
-celular 15-9-28382725 casa 7524-4828  
+celular 15-9-28382725  
+casa +54-11-7524-4828  
 
 
 ## Experiencia
 
-Inicio de actividad laboral según ANSES: 7/9/88 como docente en el CBC, UBA
+Inicio de actividad laboral según ANSES en 
+7/9/88 como docente en el CBC, UBA en la materia Matemática de la cátedra Handsen
  
 ### INDEC
 <img width="100" alt="Instituto de Estadísticas y Censos" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/INDEC.jpg">  
-29 años 10 meses  
-Consultor en Matemática, Tecnología de la Información y Geoestadística; y lider en desarrollo de proyectos.  
-Desarrollo de Sistemas de Información Geoestadística sobre plataforma web y software libre.  
-sept. 1992 - actualidad
+
+#### Consultor en Matemática, Tecnología de la Información y Geoestadística; y lider en desarrollo de proyectos.  
+
+##### Desarrollo de Sistemas de Información Geoestadística sobre plataforma web y software libre.  
 
 - 2022: Asistencia remota en la coordinación del equipo de referentes provinciales para la segmentación del censo. Dirección de programador Jr. Incorporado en diciembre 2021.  
 - 2020 – 2021: Coparticipación en el desarrollo de la interfase para la Segmentación y la carga de la cartografía y listados para el Censo2022  
 - 2018 – 2019: Desarrollo del Core del del Segmentador para el Censo de Población 2020 en Open Source Software con herramientas git  
 - 2015 - 2017: Coordinación del Sistema Geoestadístico  
--	2009 - 2015: Sistemas de Información Geográfica, Dirección Técnica  
--	2006 - 2009: Mapa Dinámico. Dirección de Informática. Desarrollo de Sistemas de Información Geoestadística sobre plataforma web y softwar e libre  
+- 2009 - 2015: Sistemas de Información Geográfica, Dirección Técnica  
+- 2006 - 2009: Mapa Dinámico. Dirección de Informática. Desarrollo de Sistemas de Información Geoestadística sobre Plataforma Web y Software Libre y Abierto 
 - 2005 - 2006: Dirección Nacional de Unidades Económicas, Asesor informático de la Dir. de Metodología  
--	Entre 1997 y 2005: Estudios y Capacitación en el extranjero, ver más abajo.  
--	Responsable Informático y Consultor en Matemática en EGH e IPC  
+
+( Entre 1997 y 2005: Estudios y Capacitación en el extranjero, ver más abajo) 
+
+##### Responsable Informático y Consultor en Matemática en EGH e IPC  
 - 1994 - 1997: IPC, Consultor en Matemática y Estadística para la resolución de temas relacionados con la metodología; Responsable IT de los sistemas, instalación de la primera red token ring (NOVELL) para el Sistema.  
 - 1992 - 1994: EGH, Programador de ajustes metodológicos.  
 
@@ -57,78 +63,98 @@ CABA
 Consultor estratégico de plan de negocios y ventas. Desarrollo de sucursales y crecimiento de plataforma web y publicidad.
 
 ### Viridis Learning 
+
 <img width="100" alt="Viridis Learning" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/viridis.png">  
-Recommendation Algorithms and Career-Path Scaffolding
+
+Recommendation Algorithms and Career-Path Scaffolding  
 feb. 2014 - dic. 2014 · 11 meses  
 up in the Cloud  
 Desarrollo de Algoritmos de Recomendación para la asistencia a estudiante y mano de obra medianamente calificada a elegir la mejor educación con mayor potencial para obtener prospectivos posiciones laborales y ayudarlos a construir su carrera laboral hacia sus objetivos. Este fue implementado usando el estado del arte en Algoritmos Matemáticos y de las Ciencias de Computación, observando la demanda del mercado laboral, la oferta educativa y las inclinaciones profesionales de los usuarios accediendo a las Bases de datos del U.S. Bureau of Labor Statistics and PayScale.com
 
 ### Deviget LLC  
+
 <img width="100" alt="Deviget LLC" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/deviget original.jpg"> 
-Programador Matemático
+
+Programador Matemático  
 feb. 2014 - dic. 2014 · 11 meses  
-Latin America
+Latin America  
 Desarrollo de Algoritmos matemáticos y consultor IT para firmas globales
 
 ### Programa Nacional Mapa Educativo, Ministerio de Educación de la Nación
+
+<img height="100" alt="Ministerio de Educación de la Nación" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/MEN.jpg">
+
 Consultor y Desarrollador GIS  
 ago. 2010 - mar. 2013 · 2 años 8 meses  
-Paraguay 1657 caba, ArgentinaParaguay 1657 caba, Argentina  
+Paraguay 1657 caba, Argentina  
 Análisis, Diseño y Especificación de los Sistemas de Argentina Trabaja, Televisión Digital Abierta de la Comisión Nacional de Telecomunicaciones (tdaCNC). Asesoramiento para la migración de la base de dato del Archivo de la Memoria sobre el Terrorismo de Estado.
 Desarrollo de Interfase de geocodificación web usando google-api,
 Aplicaciones sobre GNU-Linux, php y PostGIS para la generación asistida de mapas temáticos en estandar svg, y del Portal del Mapa Educativo Nacional en el sitio oficial del Ministerio de Educación.
 
 
 ### INAP, Secretaría de la Gestión Pública, Jefatura de Gabinete de Ministros
-<img width="100" alt="Instituto Nacional de la Administración Pública" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/INAP.jpg">
-Profesor
-nov. 2012 - 2013 · 3 meses
-Av. Roque Saenz Peña (Diag. Norte) 511, caba, argentina
+
+<img height="100" alt="Instituto Nacional de la Administración Pública" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/INAP.jpg">
+
+Profesor  
+nov. 2012 - 2013 · 3 meses  
+Av. Roque Saenz Peña (Diag. Norte) 511, caba, Argentina  
 Módulo Postgres - PostGIS para el curso de interoperatibilidad GIS para el Grupo de Productores de Información Primaria (GPIP)
 
 ### Humboldt University of Berlin
+
 <img width="100" alt="Humboldt Universität zu Berlin" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/HU-Berlin.jpg">
+
+Investigador en la  
 Universität zu Berlin  
-Investigador  
-2001 - 2004 · 3 años 1 mes
-Berlin, Alemania
+2001 - 2004 · 3 años 1 mes  
+Berlin, Alemania  
 Investigación en Optimización Global y Desarrollo del Software LaGO, ver sección Publicaciones.
 
 ### Massachusetts Institute of Technology
+
 <img width="100" alt="Massachusetts Institute of Technology" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/MIT.jpg">
+
 Ayudante de Cátedra y Asistente de Investigación,  
 ORC - MIT  
 1997 - 2001 · 4 años 1 mes  
 Cambridge, MA  
-#### Jefe de Trabajos prácticos (responsable del dictado las clases prácticas, consultas y evaluación de exámenes) en los siguientes cursos para doctorados y maestrías:
-15.081J Introducción a la Programación Matemática dictado por Dimitris Bertsimas; y 1.961 Redes de Transito, dictado por Ismael Chabini.
-Preparado de material para el programa de de educación a distancia de la alianza Singapur - MIT para la materia 5.093 Métodos de Optimization. 
+
+#### Ayudante de Cátedra (responsable del dictado las clases prácticas, consultas y evaluación de exámenes) en los siguientes cursos para doctorados y maestrías:
+- 15.081J Introducción a la Programación Matemática dictado por Dimitris Bertsimas; y 
+- 1.961 Redes de Transito, dictado por Ismael Chabini.
+- Preparado de material para el programa de de educación a distancia de la alianza Singapur - MIT para la materia 5.093 Métodos de Optimization. 
 
 #### Asistente de Investigación el los siguientes proyectos.
 - Minimizador de stress de los estudiantes bajo la supervisión de Richard Larson, una aplicación web para el armado del cronograma de exámenes y entregas de prácticas de estudio.  
 - Programación Matemática bajo la supervisión de Dimitris Bertsimas, formulación matemática para solucionar problemas con función objetivo del tipo lineal y cuadrático con restricciones lineales y variables enteras y continuas usando las condiciones KKT, aplicación para el armado de portfolios de máximo retorno esperado con mínimo riesgo, mejor subconjunto de variables de regresión en Big Data usando técnicas de Programación Matemática.  
 - Transporte Urbano supervisado por Michel Bierlaire: participación en el desarrollo de sistemas de transporte inteligente aplicado a las arterias centrales de Boston, modelado y simulación del comportamiento de la densidad de tránsito en el proyecto "Big Dig".  
-- Asistente de Enseñanza (responsable del dictado las clases prácticas, consultas y evaluación de exámenes) en los siguientes cursos para doctorados y maestrías: 15.081J Introducción a la Programación Matemática dictado por Dimitris Bertsimas; y 1.961 Redes de Transito, dictado por Ismael Chabini. 
-- Preparado de material para el programa de de educación a distancia de la alianza Singapur - MIT para la materia 5.093 Métodos de Optimization.  
 
 ### Facultad de Ciencias Exactas y Naturales, UBA
+
 <img width="100" alt="Facultad de Ciencias Exactas y Naturales, UBA" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/FCEyN.jpg">
-1989 - 1996 · 7 años
+
+1989 - 1996 · 7 años  
 Jefe de Trabajos Prácticos, Ayudante de 1ra y de 2da  
-Facultad de Ciencias Exactas y Naturales, UBA y Ciclo Básico Común
+Facultad de Ciencias Exactas y Naturales, UBA y Ciclo Básico Común  
 Ciudad Universitaria  
-en las siguiente materias:  
-Matemática del CBC, Análisis I del CBC; y   
-Teoría de Lenguajes y Autómatas, Investigación Operativa y Laboratorio II en el Dpto. de Computación
+en las siguientes materias:  
+- Matemática, 
+- Análisis I del CBC; y   
+- Teoría de Lenguajes y Autómatas, 
+- Investigación Operativa y 
+- Laboratorio II en el Dpto. de Computación, FCEyN
 
 
 ## Proyectos
 
 ### Mapas Temáticos del Censo 2010
+
 <img width="100" alt="Mapadinámico" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/web-app-mapas/geocenso.png">
+
 ene. 2010 - actualidad  
 Asociada con INDEC  
-Esta aplicación fue completamente desarrollada dentro del Instituto Nacional de Estadística y Censos (indec). 
+Esta aplicación fue completamente desarrollada dentro del Instituto Nacional de Estadística y Censos (INDEC). 
 Permite definir fórmulas de cálculo de indicadores a partir de cuadros y 
 crear regiones o agrupaciones de unidades geográficas a ser consideradas en forma conjunta. 
 Genera en forma intuitiva rangos de clasificación para cada indicador en cada región. 
@@ -146,24 +172,35 @@ may. 2013 - 2016
 Asociada con Programa Nacional Mapa Educativo, Ministerio de Educación de la Nación  
 Mapa de Navegación Interactiva para ver Información Educativa a Nivel de Nacional, Provincial y Departamental. En este último nivel se muestra la ubicación de las escuelas.
 
-### Unidades GeoestadísticasUnidades Geoestadísticas
-<img width="100" alt="Mapadinámico" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/web-app-mapas/codgeo.png">
+### Unidades Geoestadísticas
+
+<img height="100" alt="Mapadinámico" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/web-app-mapas/codgeo.png">
+
 ene. 2013 - actualidad  
 Asociada con INDEC  
 Sistema interactivo que permite consultar los nombres, códigos y ubicación de las distintas unidades geográficas empleadas por el INDEC con fines estadísticos.
 
 ### Capacitación en interoperatibilidad GIS para Organismos Públicos
+
+<img height="100" alt="Mapadinámico" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/INAP.jpg">
+
 oct. 2012 - dic. 2012  
 Asociada con INAP, Secretaría de la Gestión Pública, Jefatura de Gabinete de Ministros  
 Proyecto de capacitación para miembros de organismos públicos. Su objetivo esta concentrado en interoperatibilidad, servicios web, data management y desarrollo corporativo de herramientas geoespaciales.
 
 ### Geocodificación Múltiple, Automática e Interactiva
+
+<img height="100" alt="Mapadinámico" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/web-app-mapas/geocode.png">
+
 jun. 2012   
 Asociada con Programa Nacional Mapa Educativo, Ministerio de Educación de la Nación  
-Servicio para geocodificar una lista de direcciones en forma asincrónica. Implementación de API de googlemap que permite interactuar con el mapa para ver donde se ubica cada dirección, corregir errores particulares y sistémicos.
+Servicio para geocodificar una lista de direcciones en forma asincrónica. Implementación de un cliente para la API de googlemap que permitió scrappear cientos de miles de direcciones, 
+corregiendo errores particulares y sistémicos.
 
 ### Mapas de Exportaciones Argentina por Origen Provincial
+
 <img width="100" alt="Mapadinámico" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/web-app-mapas/opex.jpg">
+
 abr. 2010 - actualidad  
 Asociada con INDEC, se puede ver en 
 
@@ -174,9 +211,12 @@ desagregadas por país destino, provincia de origen, año, rubro y producto.
 Se desarrolló usando free and open source software.
 
 ### Mapas Dinámicos 1991 - 2001
-<img width="100" alt="Mapadinámico" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/web-app-mapas/mapadinamico.png">
-<img width="100" alt="Mapadinámico" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/web-app-mapas/mapadinamico%20agua%20de%20red%20seleccionado.png">
-<img width="100" alt="Mapadinámico" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/web-app-mapas/mapadinamico%20Ramón%20Lista.png">
+<p float="left">
+<img height="100" alt="Mapadinámico" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/web-app-mapas/mapadinamico.png">
+<img height="100" alt="Mapadinámico" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/web-app-mapas/mapadinamico%20agua%20de%20red%20seleccionado.png">
+<img height="100" alt="Mapadinámico" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/web-app-mapas/mapadinamico%20Ramón%20Lista.png">
+</p>
+
 ene. 2006 - actualidad  
 Asociada con INDEC, se puede ver en
  
