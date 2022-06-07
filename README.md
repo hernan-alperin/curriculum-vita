@@ -125,9 +125,15 @@ Teoría de Lenguajes y Autómatas, Investigación Operativa y Laboratorio II en 
 ## Proyectos
 
 ### Mapas Temáticos del Censo 2010
+<img width="100" alt="Mapadinámico" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/web-app-mapas/geocenso.png">
 ene. 2010 - actualidad  
 Asociada con INDEC  
-Esta aplicación fue completamente desarrollada dentro del Instituto Nacional de Estadística y Censos (indec). Permite definir fórmulas de cálculo de indicadores a partir de cuadros y crear regiones o agrupaciones de unidades geográficas a ser consideradas en forma conjunta. Genera en forma intuitiva rangos de clasificación para cada indicador en cada región. Con todo esto clasifica usando una escala de color las unidades censales por regiones y se genera mapas temáticos on-line. Este sistema permite el trabajo en forma concurrente de distintas areas de la institución.
+Esta aplicación fue completamente desarrollada dentro del Instituto Nacional de Estadística y Censos (indec). 
+Permite definir fórmulas de cálculo de indicadores a partir de cuadros y 
+crear regiones o agrupaciones de unidades geográficas a ser consideradas en forma conjunta. 
+Genera en forma intuitiva rangos de clasificación para cada indicador en cada región. 
+Con todo esto clasifica usando una escala de color las unidades censales por regiones y se genera mapas temáticos on-line. 
+Este sistema permite el trabajo en forma concurrente de distintas areas de la institución.
 Se uso exclusivamente Software Libre: GNU/Linux, Apache-PHP, PostGIS-PostgreSQL, Mapserver.
 
 ### Manejo de riesgo
@@ -141,6 +147,7 @@ Asociada con Programa Nacional Mapa Educativo, Ministerio de Educación de la Na
 Mapa de Navegación Interactiva para ver Información Educativa a Nivel de Nacional, Provincial y Departamental. En este último nivel se muestra la ubicación de las escuelas.
 
 ### Unidades GeoestadísticasUnidades Geoestadísticas
+<img width="100" alt="Mapadinámico" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/web-app-mapas/codgeo.png">
 ene. 2013 - actualidad  
 Asociada con INDEC  
 Sistema interactivo que permite consultar los nombres, códigos y ubicación de las distintas unidades geográficas empleadas por el INDEC con fines estadísticos.
@@ -156,6 +163,7 @@ Asociada con Programa Nacional Mapa Educativo, Ministerio de Educación de la Na
 Servicio para geocodificar una lista de direcciones en forma asincrónica. Implementación de API de googlemap que permite interactuar con el mapa para ver donde se ubica cada dirección, corregir errores particulares y sistémicos.
 
 ### Mapas de Exportaciones Argentina por Origen Provincial
+<img width="100" alt="Mapadinámico" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/web-app-mapas/opex.jpg">
 abr. 2010 - actualidad  
 Asociada con INDEC, se puede ver en [OPEX](https://www.indec.gob.ar/indec/web/Nivel4-Tema-1-16-74)      
 Sitio web para consultar información sobre exportaciones argentinas desde 1995 
