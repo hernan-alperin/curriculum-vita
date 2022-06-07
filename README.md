@@ -104,17 +104,15 @@ Cambridge, MA
 Preparado de material para el programa de de educación a distancia de la alianza Singapur - MIT para la materia 5.093 Métodos de Optimization. 
 
 #### Asistente de Investigación el los siguientes proyectos.
-Minimizador de stress de los estudiantes bajo la supervisión de Richard Larson, una aplicación web para el armado del cronograma de exámenes y entregas de prácticas de estudio.  
-Programación Matemática bajo la supervisión de Dimitris Bertsimas, formulación matemática para solucionar problemas con función objetivo del tipo lineal y cuadrático con restricciones lineales y variables enteras y continuas usando las condiciones KKT, aplicación para el armado de portfolios de máximo retorno esperado con mínimo riesgo, mejor subconjunto de variables de regresión en Big Data usando técnicas de Programación Matemática.  
-Transporte Urbano supervisado por Michel Bierlaire: participación en el desarrollo de sistemas de transporte inteligente aplicado a las arterias centrales de Boston, modelado y simulación del comportamiento de la densidad de tránsito en el proyecto "Big Dig".  
-Jefe de Trabajos prácticos (responsable del dictado las clases prácticas, consultas y evaluación de exámenes) en los siguientes cursos para doctorados y maestrías: 15.081J Introducción a la Programación Matemática dictado por Dimitris Bertsimas; y 1.961 Redes de Transito, dictado por Ismael Chabini. Preparado de material para el programa de de educación a distancia de la alianza Singapur - MIT para la materia 5.093 Métodos de Optimization.  
-Asistente de Investigación en los siguientes proyectos. Minimizador de stress de los estudiantes bajo la supervisión de Richard Larson, una aplicación web para el armado del cronograma de exámenes y entregas de prácticas de estudio.  
-Programación Matemática bajo la supervisión de Dimitris Bertsimas, formulación matemática para solucionar problemas con función objetivo del tipo lineal y cuadrático con restricciones lineales y variables enteras y continuas usando las condiciones KKT, aplicación para el armado de portfolios de máximo retorno esperado con mínimo riesgo, mejor subconjunto de variables de regresión en Big Data usando técnicas de Programación Matemática.  
-Transporte Urbano supervisado por Michel Bierlaire: participación en el desarrollo de sistemas de transporte inteligente aplicado a las arterias centrales de Boston, modelado y simulación del comportamiento de la densidad de tránsito en el proyecto "Big Dig". 
+- Minimizador de stress de los estudiantes bajo la supervisión de Richard Larson, una aplicación web para el armado del cronograma de exámenes y entregas de prácticas de estudio.  
+- Programación Matemática bajo la supervisión de Dimitris Bertsimas, formulación matemática para solucionar problemas con función objetivo del tipo lineal y cuadrático con restricciones lineales y variables enteras y continuas usando las condiciones KKT, aplicación para el armado de portfolios de máximo retorno esperado con mínimo riesgo, mejor subconjunto de variables de regresión en Big Data usando técnicas de Programación Matemática.  
+- Transporte Urbano supervisado por Michel Bierlaire: participación en el desarrollo de sistemas de transporte inteligente aplicado a las arterias centrales de Boston, modelado y simulación del comportamiento de la densidad de tránsito en el proyecto "Big Dig".  
+- Asistente de Enseñanza (responsable del dictado las clases prácticas, consultas y evaluación de exámenes) en los siguientes cursos para doctorados y maestrías: 15.081J Introducción a la Programación Matemática dictado por Dimitris Bertsimas; y 1.961 Redes de Transito, dictado por Ismael Chabini. 
+- Preparado de material para el programa de de educación a distancia de la alianza Singapur - MIT para la materia 5.093 Métodos de Optimization.  
 
 ### Facultad de Ciencias Exactas y Naturales, UBA
 <img width="100" alt="Facultad de Ciencias Exactas y Naturales, UBA" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/FCEyN.jpg">
-1989 - 1995 · 6 años 1 mes  
+1989 - 1996 · 7 años
 Jefe de Trabajos Prácticos, Ayudante de 1ra y de 2da  
 Facultad de Ciencias Exactas y Naturales, UBA y Ciclo Básico Común
 Ciudad Universitaria  
@@ -127,7 +125,7 @@ Teoría de Lenguajes y Autómatas, Investigación Operativa y Laboratorio II en 
 ### Massachusetts Institute of Technology  
 <img width="100" alt="Massachusetts Institute of Technology" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/MIT.jpg">
 Doctorado (PhD), Operations Research: Investigación Operativa  
-1997 - 2001  
+1997 - 2001 · 4 años 
 Actividades y grupos: Teaching and Research AssitantActividades y grupos: Teaching and Research Assitant
 
 ### Universidad de Buenos Aires  
@@ -137,14 +135,14 @@ Actividades y grupos: Teaching and Research AssitantActividades y grupos: Teachi
 <img width="100" alt="Facultad de Ciencias Exactas y Naturales, UBA" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/FCEyN.jpg">  
 
 ##### Licenciado, Ciencias de la computación   
-1989 - 1994  
+1989 - 1994 · 5 años
 Titulación: 8.40 sobre 10 (Diploma de Honor)  
 Actividades y grupos: Consejero Directivo por el Claustro Estudiantil  
 
 ##### Licenciatura en Ciencias Biológicas, FCEyN, UBA  
 Licenciatura, Ciencias Biológicas  
-1987 - 1989  
-Titulación: 9.45 sobre 10
+1987 - 1989 · 3 años
+promedio alcanzado: 9.45 sobre 10
 Actividades y grupos: CECEN  
 miembro de la agrupación de estudiantes AEI. A cargo del centro de copiado del CECEN.  
 
