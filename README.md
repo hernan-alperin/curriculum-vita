@@ -393,20 +393,21 @@ Teoría de Lenguages y Autómatas
 Tesis de Grado: Combinación de Pronósticos en Series de Tiempo Noviembre 1994 
 
 ### Asociada con Licenciatura en Ciencias Biológicas, FCEyN, UBA
-| materia                                        | nota  |  fecha |
-|:--                                             |   --: |  ----: |
-|Química General e Inorgánica                    | 10    | 1/3/88 |
-|Introducción a la Biología Celular y Molecular  | 10    | 30/9/88|
-Elementos de Cálculo Numérico  
-Física I - II  
-Química Orgánica  
-Química Biológica  
-Biometría  
-Botánica  
-Ecología General  
-Genética I  
-Microbiología e Inmunología  
-Virología  
+| materia                                        | nota  |  fecha  |
+|:--                                             |   --: |  ----:  |
+|Química General e Inorgánica                    | 10    | 1/3/88  |
+|Introducción a la Biología Celular y Molecular  | 10    | 30/9/88 |
+|Elementos de Cálculo Numérico                   | TP    |         |
+|Física I                                        | 10    | 25/8/88 |       |
+|Física II                                       | TP    |         |
+|Química Orgánica                                | 10    | 27/2/89 |
+|Química Biológica                               | 10    | 20/10/89|
+|Biometría                                       | 10    | 23/8/89 |
+|Introducción a la Botánica                      |  9    | 28/2/89 |
+|Ecología General                                |  9    | 21/12/89|
+|Genética I                                      |  7    | 21/12/90|
+|Microbiología e Inmunología                     |  9    | 22/2/91 |
+|Virología                                       | TP    |         |
 
 ## Idiomas
 
