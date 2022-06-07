@@ -401,11 +401,9 @@ Graduate Cumulative GPA: 4.9 (on a 5.0 scale)
 |Laboratorio VIIIA                               | 10    | 3/6/93  |
 |Investigación Operativa                         |  8    | 13/8/93 |
 |Cálculo Avanzado                                | 10    | 17/8/93 |
-|Seminario sobre Cambio de Creencias 
-y Lógicas no Monótonas                           |  8    | 21/10/93|
+|Seminario sobre Cambio de Creencias y Lógicas no Monótonas              |  8    | 21/10/93|
 |Redes de Información                            |  9    | 16/12/93|
-|Tesis de Licenciatura: 
-Combinación de Pronósticos en Series de Tiempo   | 10    | 3/11/94 |
+|Tesis de Licenciatura: Combinación de Pronósticos en Series de Tiempo   | 10    | 3/11/94 |
 
 ### Asociada con Licenciatura en Ciencias Biológicas, FCEyN, UBA
 | asignatura                                     | nota  |  fecha  |
