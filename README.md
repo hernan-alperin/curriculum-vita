@@ -18,7 +18,6 @@ Matemático y Geoestadístico en la Coordinación del Sistema Geoestadístico de
 - Analista Universitario de Computación, Facultad de Ciencia Exactas y Naturales - Universidad de Buenos Aires. Mayo 1992  
 
 ## Contacto
-<img width="100" alt="Instituto de Estadísticas y Censos" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/INDEC.jpg">
 
 J. A. Roca 609 oficina 701 C1067ABB  
 oficina +54-11-4349-9705 interno 49705  
@@ -121,6 +120,51 @@ Ciudad Universitaria
 en las siguiente materias:  
 Matemática del CBC, Análisis I del CBC; y   
 Teoría de Lenguajes y Autómatas, Investigación Operativa y Laboratorio II en el Dpto. de Computación
+
+
+## Proyectos
+
+### Mapas Temáticos del Censo 2010
+ene. 2010 - actualidad  
+Asociada con INDEC  
+Esta aplicación fue completamente desarrollada dentro del Instituto Nacional de Estadística y Censos (indec). Permite definir fórmulas de cálculo de indicadores a partir de cuadros y crear regiones o agrupaciones de unidades geográficas a ser consideradas en forma conjunta. Genera en forma intuitiva rangos de clasificación para cada indicador en cada región. Con todo esto clasifica usando una escala de color las unidades censales por regiones y se genera mapas temáticos on-line. Este sistema permite el trabajo en forma concurrente de distintas areas de la institución.
+Se uso exclusivamente Software Libre: GNU/Linux, Apache-PHP, PostGIS-PostgreSQL, Mapserver.
+
+### Manejo de riesgo
+dic. 2014 - actualidad  
+Asociada con INDEC  
+Uso de imágenes satelitales y datos censales a nivel parcial de radios para estimar poblacion y viviendas bajo riesgo.
+
+### Portal del Mapa Educativo Nacional
+may. 2013 - 2016   
+Asociada con Programa Nacional Mapa Educativo, Ministerio de Educación de la Nación  
+Mapa de Navegación Interactiva para ver Información Educativa a Nivel de Nacional, Provincial y Departamental. En este último nivel se muestra la ubicación de las escuelas.
+
+### Unidades GeoestadísticasUnidades Geoestadísticas
+ene. 2013 - actualidad  
+Asociada con INDEC  
+Sistema interactivo que permite consultar los nombres, códigos y ubicación de las distintas unidades geográficas empleadas por el INDEC con fines estadísticos.
+
+### Capacitación en interoperatibilidad GIS para Organismos Públicos
+oct. 2012 - dic. 2012  
+Asociada con INAP, Secretaría de la Gestión Pública, Jefatura de Gabinete de Ministros  
+Proyecto de capacitación para miembros de organismos públicos. Su objetivo esta concentrado en interoperatibilidad, servicios web, data management y desarrollo corporativo de herramientas geoespaciales.
+
+### Geocodificación Múltiple, Automática e Interactiva
+jun. 2012   
+Asociada con Programa Nacional Mapa Educativo, Ministerio de Educación de la Nación  
+Servicio para geocodificar una lista de direcciones en forma asincrónica. Implementación de API de googlemap que permite interactuar con el mapa para ver donde se ubica cada dirección, corregir errores particulares y sistémicos.
+
+### Mapas de Exportaciones Argentina por Origen Provincial
+abr. 2010 - actualidad  
+Asociada con INDEC  
+Sitio web para consultar información sobre exportaciones argentinas desde 1995 desagregadas por país destino, provincia de origen, año, rubro y producto. Se desarrolló usando free and open source software.
+
+### Mapas DinámicosMapas Dinámicos
+ene. 2006 - actualidad  
+Asociada con INDEC  
+Sistema de Información Geográfica de Argentina con Datos del Censo Nacional de Personas y Viviendas 2001 y del Censo Agropecuario 2002. Acceso libre vía www. Sistema de Clasificación de Unidades Censales por Indicadores.
+
 
 ## Educación
 
