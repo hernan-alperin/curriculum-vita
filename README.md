@@ -163,7 +163,9 @@ desagregadas por país destino, provincia de origen, año, rubro y producto.
 Se desarrolló usando free and open source software.
 
 ### Mapas Dinámicos 1991 - 2001
+<img width="100" alt="Mapadinámico" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/web-app-mapas/mapadinamico.png">
 <img width="100" alt="Mapadinámico" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/web-app-mapas/mapadinamico%20agua%20de%20red%20seleccionado.png">
+<img width="100" alt="Mapadinámico" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/web-app-mapas/mapadinamico%20Ramón%20Lista.png">
 ene. 2006 - actualidad  
 Asociada con INDEC, se puede ver en [Mapas Dinámicos](https://www.indec.gob.ar/indec/web/Nivel4-Tema-1-16-81)    
 Sistema de Información Geográfica de Argentina con Datos del Censo Nacional de Personas y Viviendas 2001,
