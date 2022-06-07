@@ -157,13 +157,17 @@ Servicio para geocodificar una lista de direcciones en forma asincrónica. Imple
 
 ### Mapas de Exportaciones Argentina por Origen Provincial
 abr. 2010 - actualidad  
-Asociada con INDEC  
-Sitio web para consultar información sobre exportaciones argentinas desde 1995 desagregadas por país destino, provincia de origen, año, rubro y producto. Se desarrolló usando free and open source software.
+Asociada con INDEC, se puede ver en [OPEX](https://www.indec.gob.ar/indec/web/Nivel4-Tema-1-16-74)      
+Sitio web para consultar información sobre exportaciones argentinas desde 1995 
+desagregadas por país destino, provincia de origen, año, rubro y producto. 
+Se desarrolló usando free and open source software.
 
 ### Mapas Dinámicos 1991 - 2001
 ene. 2006 - actualidad  
-Asociada con INDEC, se puede ver en [Mapas Dinámicos](https://www.indec.gob.ar/indec/web/Nivel4-Tema-1-16-81).
-Sistema de Información Geográfica de Argentina con Datos del Censo Nacional de Personas y Viviendas 2001 y del Censo Agropecuario 2002. Acceso libre vía www. Sistema de Clasificación de Unidades Censales por Indicadores.
+Asociada con INDEC, se puede ver en [Mapas Dinámicos](https://www.indec.gob.ar/indec/web/Nivel4-Tema-1-16-81)    
+Sistema de Información Geográfica de Argentina con Datos del Censo Nacional de Personas y Viviendas 2001,
+ y del Censo Agropecuario 2002. 
+Acceso libre vía web. Sistema de Clasificación de Unidades Censales por Indicadores.
 
 
 ## Educación
