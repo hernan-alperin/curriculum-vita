@@ -27,7 +27,7 @@ celular 15-9-28382725 casa 7524-4828
 
 ## Experiencia
 
-Inicio de actividad laboral según ANSES 7/9/88 como docente en en CBC, UBA
+Inicio de actividad laboral según ANSES: 7/9/88 como docente en el CBC, UBA
  
 ### INDEC
 <img width="100" alt="Instituto de Estadísticas y Censos" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/INDEC.jpg">  
