@@ -410,9 +410,9 @@ Graduate Cumulative GPA: 4.9 (on a 5.0 scale)
 |:--                                             |   --: |  ----:  |
 |Química General e Inorgánica                    | 10    | 1/3/88  |
 |Introducción a la Biología Celular y Molecular  | 10    | 30/9/88 |
-|Elementos de Cálculo Numérico                   | TP    |         |
+|Elementos de Cálculo Numérico                   | TP aprobados   |         |
 |Física I                                        | 10    | 25/8/88 |       |
-|Física II                                       | TP    |         |
+|Física II                                       | TP aprobados   |         |
 |Química Orgánica                                | 10    | 27/2/89 |
 |Química Biológica                               | 10    | 20/10/89|
 |Biometría                                       | 10    | 23/8/89 |
@@ -420,7 +420,7 @@ Graduate Cumulative GPA: 4.9 (on a 5.0 scale)
 |Ecología General                                |  9    | 21/12/89|
 |Genética I                                      |  7    | 21/12/90|
 |Microbiología e Inmunología                     |  9    | 22/2/91 |
-|Virología                                       | TP    |         |
+|Virología                                       | TP aprobados   |         |
 
 ## Idiomas
 
