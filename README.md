@@ -115,20 +115,26 @@ Investigación en Optimización Global y Desarrollo del Software LaGO, ver secci
 
 <img width="100" alt="Massachusetts Institute of Technology" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/MIT.jpg">
 
-Ayudante de Cátedra y Asistente de Investigación,  
+Asistente de Cátedra y de Investigación,  
 ORC - MIT  
 1997 - 2001 · 4 años 1 mes  
 Cambridge, MA  
 
-#### Ayudante de Cátedra (responsable del dictado las clases prácticas, consultas y evaluación de exámenes) en los siguientes cursos para doctorados y maestrías:
+#### Asistente de Cátedra (responsable del dictado las clases prácticas, consultas y evaluación de exámenes) en los siguientes cursos para doctorados y maestrías:
 - 15.081J Introducción a la Programación Matemática dictado por Dimitris Bertsimas; y 
 - 1.961 Redes de Transito, dictado por Ismael Chabini.
 - Preparado de material para el programa de de educación a distancia de la alianza Singapur - MIT para la materia 5.093 Métodos de Optimization. 
 
 #### Asistente de Investigación el los siguientes proyectos.
-- Minimizador de stress de los estudiantes bajo la supervisión de Richard Larson, una aplicación web para el armado del cronograma de exámenes y entregas de prácticas de estudio.  
-- Programación Matemática bajo la supervisión de Dimitris Bertsimas, formulación matemática para solucionar problemas con función objetivo del tipo lineal y cuadrático con restricciones lineales y variables enteras y continuas usando las condiciones KKT, aplicación para el armado de portfolios de máximo retorno esperado con mínimo riesgo, mejor subconjunto de variables de regresión en Big Data usando técnicas de Programación Matemática.  
-- Transporte Urbano supervisado por Michel Bierlaire: participación en el desarrollo de sistemas de transporte inteligente aplicado a las arterias centrales de Boston, modelado y simulación del comportamiento de la densidad de tránsito en el proyecto "Big Dig".  
+- Minimizador de stress de los estudiantes bajo la supervisión de Richard Larson. 
+Una aplicación web para el armado del cronograma de exámenes y entregas de prácticas de estudio utilizando herramientas de Programación Matemática.  
+- Programación Matemática bajo la supervisión de Dimitris Bertsimas, 
+formulación matemática para solucionar problemas con función objetivo del tipo lineal y cuadrático 
+con restricciones lineales y variables enteras y continuas usando las condiciones KKT. 
+Aplicación para el armado de portfolios de máximo retorno esperado con mínimo riesgo, 
+mejor subconjunto de variables de regresión en Big Data usando técnicas de Programación Matemática.  
+- Transporte Urbano supervisado por Michel Bierlaire: participación en el desarrollo de sistemas de transporte inteligente 
+aplicado a las arterias centrales de Boston. Modelado y simulación del comportamiento de la densidad de tránsito en el proyecto "Big Dig".  
 
 ### Facultad de Ciencias Exactas y Naturales, UBA
 
@@ -190,7 +196,7 @@ Proyecto de capacitación para miembros de organismos públicos. Su objetivo est
 
 ### Geocodificación Múltiple, Automática e Interactiva
 
-<img height="100" alt="Mapadinámico" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/web-app-mapas/geocode.png">
+<img height="100" alt="Geocodificación Múltiple, Automática e Interactiva" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/web-app-mapas/geocode.png">
 
 jun. 2012   
 Asociada con Programa Nacional Mapa Educativo, Ministerio de Educación de la Nación  
@@ -234,15 +240,15 @@ Acceso libre vía web. Sistema de Clasificación de Unidades Censales por Indica
 <img width="100" alt="Massachusetts Institute of Technology" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/MIT.jpg">
 
 Doctorado (PhD), Operations Research: Investigación Operativa  
-1997 - 2001 · 4 años 
-Actividades y grupos: Teaching and Research AssitantActividades y grupos: Teaching and Research Assitant
+1997 - 2001 · 4 años   
+Actividades y grupos: Teaching and Research Assitant
 
 ### Universidad de Buenos Aires  
 #### Facultad de Ciencias Exactas y Naturales  
 
 <p float="left">
 <img height="100" alt="Universidad de Buenos Aires" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/UBA.jpg">  
-<img height="100" alt="Facultad de Ciencias Exactas y Naturales, UBA" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/FCEyN.jpg">  
+<img height="90" alt="Facultad de Ciencias Exactas y Naturales, UBA" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/FCEyN.jpg">  
 </p>
 
 ##### Licenciado, Ciencias de la computación   
@@ -268,20 +274,18 @@ participación en la organizción de las FOSS4G Argentina
 
 ## Recomendaciones
 ### Luis Piccinali  
-Contacto de 1er grado  
 Licenciado en Geografía, UBA. Especializado en Sistemas de información geográfica, Bases de Datos Espaciales e Infraestructura de Datos Espaciales.
-Luis trabajaba con Hernán en el mismo equipo
+Luis trabajaba con Hernán en el mismo equipo en 2012 en el programa MapaEducativo del Ministerio de Educación de la Nación
 Hernán posee gran experiencia en el uso y manejo de bases de datos espaciales y en desarrollar consultas complejas (SQL+PostGIS). 
 Sus conocimientos en matemática y habilidad en el tema permiten obtener distintas miradas a la resolución de problemas y a la implementación de proyectos referidos a información geográfica que de por sí son complejos y diversos.
 
-### Emilio Platzer
-Contacto de 1er grado  
+### Emilio Platzer 
 Licenciado en Ciencias de la Computación. Especialista en desarrollo de software y en coordinación de equipos Full Stack
-Emilio trabajaba con Hernán en el mismo equipo
-Hernán es un profesional muy capaz y creativo. Se destaca por ser práctico y llegar a soluciones tempranas aún en situaciones complejas.
+Emilio trabajaba con Hernán en el mismo equipo en 1995 en la Dirección de Precios de Consumo del INDEC
+Hernán es un profesional muy capaz y creativo. 
+Se destaca por ser práctico y llegar a soluciones tempranas aún en situaciones complejas.
 
-### Juan Carlos Fuchs
-Contacto de 1er grado
+### Juan Carlos Fuchs 
 SIG en INDEC (Instituto Nacional de Estadística y Censos) Argentina  
 6 de mayo de 2013, Juan Carlos supervisaba directamente a Hernán  
 La participación de H. fue decisiva en la concresión de nuestro proyecto insignia, desarrollado sobre Mapserver, PHP y Postgres. 
@@ -289,9 +293,8 @@ Actualmente lidera el grupo de desarrolladores que trabajan en proyectos SIG uti
 Matemático avezado de participación proactiva con una gran predisposición a guiar y formar a los integrantes de su entorno de trabajo.
 
 ### Carlos Gabriel Asato
-Contacto de 1er grado
 Geoscience & Geospatial Information Project and Capability Building, Workgroup Coordination Specialist.
-27 de noviembre de 2012, Carlos Gabriel trabajaba con Hernán en el mismo equipo
+27 de noviembre de 2012, Carlos Gabriel trabajaba con Hernán en el mismo equipo en el Grupo de Productores de Información Primaria (GPIP)
 Hernán es una persona que maneja el Spatial SQL en forma muy clara y eficiente de modo tal que es capaz de generar consultas SQL complejas.
 
 ## Publicaciones
@@ -321,17 +324,19 @@ Mathematicians and engineers have developed in a joint research project a soluti
 
 ## Cursos y Materias
 ### Asociados con MIT (id 965 990 672)
-Fall Term 1997 - 1998  
-Applied Probability 6.431  
-Introduction to Mathematical Programming 6.251  
-Traffic Networks 1.961  
+|Fall Term 1997 - 1998 |
+| :------------------- |
+|Applied Probability 6.431 |
+|Introduction to Mathematical Programming 6.251  |
+|Traffic Networks 1.961  |
 
-Spring Term 1997 - 1998  
-Discrete Stochastic Processes 6.262  
-Nonlinear Programming 15.084  
-Special Seminars in Applied Probability and Stochastic Processes (Asymptotic Methods for Stochastic Processes - Data Mining, Statistics and Optimization) 15.098  
-Special Seminar in Operations Research 15.099
-Thesis
+|Spring Term 1997 - 1998  |
+| :------------------- |
+|Discrete Stochastic Processes 6.262  |
+|Nonlinear Programming 15.084  |
+|Special Seminars in Applied Probability and Stochastic Processes (Asymptotic Methods for Stochastic Processes - Data Mining, Statistics and Optimization) 15.098  |
+|Special Seminar in Operations Research 15.099 |
+| Thesis |
 
 Fall Term Term 1998 - 1999
 Logistical and Transportation Planning Methods 15.073  
