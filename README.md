@@ -277,38 +277,34 @@ participación en la organizción de las FOSS4G Argentina
 ### Luis Piccinali  
 Licenciado en Geografía, UBA. Especializado en Sistemas de información geográfica, Bases de Datos Espaciales e Infraestructura de Datos Espaciales.
 Luis trabajaba con Hernán en el mismo equipo en 2012 en el programa MapaEducativo del Ministerio de Educación de la Nación
-Hernán posee gran experiencia en el uso y manejo de bases de datos espaciales y en desarrollar consultas complejas (SQL+PostGIS). 
-Sus conocimientos en matemática y habilidad en el tema permiten obtener distintas miradas a la resolución de problemas y a la implementación de proyectos referidos a información geográfica que de por sí son complejos y diversos.
+> Hernán posee gran experiencia en el uso y manejo de bases de datos espaciales y en desarrollar consultas complejas (SQL+PostGIS). 
+> Sus conocimientos en matemática y habilidad en el tema permiten obtener distintas miradas a la resolución de problemas y a la implementación de proyectos referidos a información geográfica que de por sí son complejos y diversos.
 
 ### Emilio Platzer 
 Licenciado en Ciencias de la Computación. Especialista en desarrollo de software y en coordinación de equipos Full Stack
 Emilio trabajaba con Hernán en el mismo equipo en 1995 en la Dirección de Precios de Consumo del INDEC
-Hernán es un profesional muy capaz y creativo. 
-Se destaca por ser práctico y llegar a soluciones tempranas aún en situaciones complejas.
+> Hernán es un profesional muy capaz y creativo. 
+> Se destaca por ser práctico y llegar a soluciones tempranas aún en situaciones complejas.
 
 ### Juan Carlos Fuchs 
 SIG en INDEC (Instituto Nacional de Estadística y Censos) Argentina  
 6 de mayo de 2013, Juan Carlos supervisaba directamente a Hernán  
-La participación de H. fue decisiva en la concresión de nuestro proyecto insignia, desarrollado sobre Mapserver, PHP y Postgres. 
-Actualmente lidera el grupo de desarrolladores que trabajan en proyectos SIG utilizando SVG, Javascript, PHP y Postgres con PostGIS. 
-Matemático avezado de participación proactiva con una gran predisposición a guiar y formar a los integrantes de su entorno de trabajo.
+> La participación de H. fue decisiva en la concresión de nuestro proyecto insignia, desarrollado sobre Mapserver, PHP y Postgres. 
+> Actualmente lidera el grupo de desarrolladores que trabajan en proyectos SIG utilizando SVG, Javascript, PHP y Postgres con PostGIS. 
+> Matemático avezado de participación proactiva con una gran predisposición a guiar y formar a los integrantes de su entorno de trabajo.
 
 ### Carlos Gabriel Asato
 Geoscience & Geospatial Information Project and Capability Building, Workgroup Coordination Specialist.
 27 de noviembre de 2012, Carlos Gabriel trabajaba con Hernán en el mismo equipo en el Grupo de Productores de Información Primaria (GPIP)
-Hernán es una persona que maneja el Spatial SQL en forma muy clara y eficiente de modo tal que es capaz de generar consultas SQL complejas.
+> Hernán es una persona que maneja el Spatial SQL en forma muy clara y eficiente de modo tal que es capaz de generar consultas SQL complejas.
 
 ### Adrián Ricardo Toca
 Coordinador del Área de Geoestadística del INDEC     
 desde 2021 trabajo bajo su supervisión directa   
-El Matemático Alperin es un especialista en el desarrollo de algoritmos para dar respuesta a distintos requerimientos. 
-Hago foco en el algoritmo de segmentación utilizado para distribuir la carga a los censistas para el Censo2022 en todo el país: 
-el mismo está preparado para dar respuesta a complejas situaciones geográficas, 
-dispar conformación de unidades censales, complejas planimetría de las localidades censales y 
-compleja confección de los listados según los distintos tipos de viviendas particulares. 
-El desarrollo cuenta con una alta sofisticación, lo que habla por sí sólo de la gran capacidad analítica, 
-de sistematización de procedimientos y de compromiso con la tarea encomendada del profesional en cuestión. 
-Contar con él en nuestra Coordinación es garantía de calidad en nuestras actividades y producciones.
+> El Matemático Alperin es un especialista en el desarrollo de algoritmos para dar respuesta a distintos requerimientos. 
+> Hago foco en el algoritmo de segmentación utilizado para distribuir la carga a los censistas para el Censo2022 en todo el país: el mismo está preparado para dar respuesta a complejas situaciones geográficas, dispar conformación de unidades censales, complejas planimetría de las localidades censales y compleja confección de los listados según los distintos tipos de viviendas particulares. 
+> El desarrollo cuenta con una alta sofisticación, lo que habla por sí sólo de la gran capacidad analítica, de sistematización de procedimientos y de compromiso con la tarea encomendada del profesional en cuestión. 
+> Contar con él en nuestra Coordinación es garantía de calidad en nuestras actividades y producciones.
 
 ## Publicaciones
 1600 menciones encontradas en academia.edu  
