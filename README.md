@@ -298,6 +298,18 @@ Geoscience & Geospatial Information Project and Capability Building, Workgroup C
 27 de noviembre de 2012, Carlos Gabriel trabajaba con Hernán en el mismo equipo en el Grupo de Productores de Información Primaria (GPIP)
 Hernán es una persona que maneja el Spatial SQL en forma muy clara y eficiente de modo tal que es capaz de generar consultas SQL complejas.
 
+### Adrián Ricardo Toca
+Coordinador del Área de Geoestadística del INDEC     
+desde 2021 trabajo bajo su supervisión directa   
+El Matemático Alperin es un especialista en el desarrollo de algoritmos para dar respuesta a distintos requerimientos. 
+Hago foco en el algoritmo de segmentación utilizado para distribuir la carga a los censistas para el Censo2022 en todo el país: 
+el mismo está preparado para dar respuesta a complejas situaciones geográficas, 
+dispar conformación de unidades censales, complejas planimetría de las localidades censales y 
+compleja confección de los listados según los distintos tipos de viviendas particulares. 
+El desarrollo cuenta con una alta sofisticación, lo que habla por sí sólo de la gran capacidad analítica, 
+de sistematización de procedimientos y de compromiso con la tarea encomendada del profesional en cuestión. 
+Contar con él en nuestra Coordinación es garantía de calidad en nuestras actividades y producciones.
+
 ## Publicaciones
 1600 menciones encontradas en academia.edu  
 [Academia.edu](https://hu-berlin.academia.edu/HernanAlperin)
