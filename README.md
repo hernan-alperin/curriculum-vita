@@ -16,9 +16,9 @@ a la metodología de los operativos que se realizan en el Estado Nacional;
 ## Credenciales
 -	Investigador en el Institut für Mathematik de la Humboldt Universität-Berlin, Alemania.  2001 - 2004
 -	Candidato a Philosophy Doctor en el Operations Research Center, Massachusetts Institute of Technology, EEUU. 1997 - 2000  
--	Licenciado en Ciencias de la Computación, Facultad de Ciencias Exactas y Naturales - Universidad de Buenos Aires. 3/11/94 
-- Analista Universitario de Computación, Facultad de Ciencias Exactas y Naturales - Universidad de Buenos Aires. Mayo 1992  
-- Bachiller Nacional, Instituto Manuel Dorrego, Diciembre 1986
+-	Licenciado en Ciencias de la Computación, Facultad de Ciencias Exactas y Naturales - Universidad de Buenos Aires. 3 de noviembre de 1994 
+- Analista Universitario de Computación, Facultad de Ciencias Exactas y Naturales - Universidad de Buenos Aires. 20 de marzo de 1992  
+- Bachiller Nacional, Instituto Manuel Dorrego, 28 de noviembre de 1986
 
 ## Contacto
 
