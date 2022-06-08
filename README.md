@@ -18,6 +18,7 @@ a la metodología de los operativos que se realizan en el Estado Nacional;
 -	Candidato a Philosophy Doctor en el Operations Research Center, Massachusetts Institute of Technology, EEUU. 1997 - 2000  
 -	Licenciado en Ciencias de la Computación, Facultad de Ciencias Exactas y Naturales - Universidad de Buenos Aires. 3/11/94 
 - Analista Universitario de Computación, Facultad de Ciencias Exactas y Naturales - Universidad de Buenos Aires. Mayo 1992  
+- Bachiller Nacional, Instituto Manuel Dorrego, Diciembre 1986
 
 ## Contacto
 
