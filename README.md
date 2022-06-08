@@ -43,7 +43,7 @@ Inicio de actividad laboral según ANSES en
 - 2022: Asistencia remota en la coordinación del equipo de referentes provinciales para la segmentación del censo. Dirección de programador Jr. Incorporado en diciembre 2021.  
 - 2020 – 2021: Coparticipación en el desarrollo de la interfase para la Segmentación y la carga de la cartografía y listados para el Censo2022  
 - 2018 – 2019: Desarrollo del Core del del Segmentador para el Censo de Población 2020 en Open Source Software con herramientas git  
-- 2015 - 2017: Coordinación del Sistema Geoestadístico  
+- 2015 - 2017: Miembro de la Coordinación del Sistema Geoestadístico  
 - 2009 - 2015: Sistemas de Información Geográfica, Dirección Técnica  
 - 2006 - 2009: Mapa Dinámico. Dirección de Informática. Desarrollo de Sistemas de Información Geoestadística sobre Plataforma Web y Software Libre y Abierto 
 - 2005 - 2006: Dirección Nacional de Unidades Económicas, Asesor informático de la Dir. de Metodología  
