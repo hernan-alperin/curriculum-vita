@@ -41,8 +41,8 @@ Inicio de actividad laboral según ANSES en
 ##### Desarrollo de Sistemas de Información Geoestadística sobre plataforma web y software libre.  
 
 - 2022: Asistencia remota en la coordinación del equipo de referentes provinciales para la segmentación del censo. Dirección de programador Jr. Incorporado en diciembre 2021.  
-- 2020 – 2021: Coparticipación en el desarrollo de la interfase para la Segmentación y la carga de la cartografía y listados para el Censo2022  
-- 2018 – 2019: Desarrollo del Core del del Segmentador para el Censo de Población 2020 en Open Source Software con herramientas git  
+- 2020 – 2021: Coparticipación en el desarrollo de la interfase para la Segmentación y la carga de la cartografía y listados para el Censo 2022  
+- 2018 – 2019: Desarrollo del Core del Segmentador para el Censo de Población 2020 en Open Source Software con herramientas git  
 - 2015 - 2017: Miembro de la Coordinación del Sistema Geoestadístico  
 - 2009 - 2015: Sistemas de Información Geográfica, Dirección Técnica  
 - 2006 - 2009: Mapa Dinámico. Dirección de Informática. Desarrollo de Sistemas de Información Geoestadística sobre Plataforma Web y Software Libre y Abierto 
@@ -124,9 +124,9 @@ Cambridge, MA
 #### Asistente de Cátedra (responsable del dictado las clases prácticas, consultas y evaluación de exámenes) en los siguientes cursos para doctorados y maestrías:
 - 15.081J Introducción a la Programación Matemática dictado por Dimitris Bertsimas; y 
 - 1.961 Redes de Transito, dictado por Ismael Chabini.
-- Preparado de material para el programa de de educación a distancia de la alianza Singapur - MIT para la materia 5.093 Métodos de Optimization. 
+- Preparado de material para el programa de educación a distancia de la alianza Singapur - MIT para la materia 5.093 Métodos de Optimization. 
 
-#### Asistente de Investigación el los siguientes proyectos.
+#### Asistente de Investigación en los siguientes proyectos.
 - Minimizador de stress de los estudiantes bajo la supervisión de Richard Larson. 
 Una aplicación web para el armado del cronograma de exámenes y entregas de prácticas de estudio utilizando herramientas de Programación Matemática.  
 - Programación Matemática bajo la supervisión de Dimitris Bertsimas, 
@@ -324,11 +324,13 @@ Mathematicians and engineers have developed in a joint research project a soluti
 
 ## Algunas presentaciones en Congresos
 
-- Congreso de Investigación Operativa, Havanna, Cuba 2002
-- Firste International Workshop on Global Constraint OPtimization and Constraint Satisfaction, COCOS 2002, Valbonne - Sophia Antipolis, France, October 2002
-- VI encuentro de IDERA, Tucuman 13 y 14 de Octubre de 2011
+- XVI jornadas IDERA Córdoba 28 de junia al 1 de julio de 2022
+- X jornadas IDERA Mendoza, 14 y 15 de Mayo de 2015
 - FOSS4G Argentina, IGN, CABA 2013
-- X IDERA Mendoza, 14 y 15 de Mayo de 2015
+- VI jornadas IDERA, Tucuman 13 y 14 de Octubre de 2011
+- Congreso de Investigación Operativa, Havanna, Cuba 2002
+- First International Workshop on Global Constraint Optimization and Constraint Satisfaction, COCOS 2002, Valbonne - Sophia Antipolis, France, October 2002
+
 
 
 ## Cursos y Materias
