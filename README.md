@@ -30,8 +30,8 @@ casa +54-11-7524-4828
 
 ## Experiencia
 
-Inicio de actividad laboral según ANSES en 
-7/9/88 como docente en el CBC, UBA en la materia Matemática de la cátedra Handsen
+Inicio de actividad laboral según ANSES el 
+7 de septiembre de 1988 como docente en el CBC, UBA en la materia Matemática de la cátedra Handsen
  
 ### INDEC
 <img width="100" alt="Instituto de Estadísticas y Censos" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/INDEC.jpg">  
