@@ -280,25 +280,31 @@ Luis trabajaba con Hernán en el mismo equipo en 2012 en el programa MapaEducati
 > Hernán posee gran experiencia en el uso y manejo de bases de datos espaciales y en desarrollar consultas complejas (SQL+PostGIS). 
 > Sus conocimientos en matemática y habilidad en el tema permiten obtener distintas miradas a la resolución de problemas y a la implementación de proyectos referidos a información geográfica que de por sí son complejos y diversos.
 
-### Emilio Platzer 
+### Lic. Emilio Platzer 
 Licenciado en Ciencias de la Computación. Especialista en desarrollo de software y en coordinación de equipos Full Stack
 Emilio trabajaba con Hernán en el mismo equipo en 1995 en la Dirección de Precios de Consumo del INDEC
 > Hernán es un profesional muy capaz y creativo. 
 > Se destaca por ser práctico y llegar a soluciones tempranas aún en situaciones complejas.
 
-### Juan Carlos Fuchs 
+### Mg. Juan Carlos Fuchs 
 SIG en INDEC (Instituto Nacional de Estadística y Censos) Argentina  
 6 de mayo de 2013, Juan Carlos supervisaba directamente a Hernán  
 > La participación de H. fue decisiva en la concresión de nuestro proyecto insignia, desarrollado sobre Mapserver, PHP y Postgres. 
 > Actualmente lidera el grupo de desarrolladores que trabajan en proyectos SIG utilizando SVG, Javascript, PHP y Postgres con PostGIS. 
 > Matemático avezado de participación proactiva con una gran predisposición a guiar y formar a los integrantes de su entorno de trabajo.
 
-### Carlos Gabriel Asato
+### Ing. Carlos Gabriel Asato
 Geoscience & Geospatial Information Project and Capability Building, Workgroup Coordination Specialist.
 27 de noviembre de 2012, Carlos Gabriel trabajaba con Hernán en el mismo equipo en el Grupo de Productores de Información Primaria (GPIP)
 > Hernán es una persona que maneja el Spatial SQL en forma muy clara y eficiente de modo tal que es capaz de generar consultas SQL complejas.
 
-### Adrián Ricardo Toca
+### Dra. Gabriela Mara Ackermann
+Coordinadora de Organismos Nacionales  
+> Trabajé con Hernán Alperin entre 2009 y 2015, en el desarrollo de aplicaciones para la gestión y publicación de información geoespacial. 
+> Hernán fue un recurso clave para el desarrollo de los algoritmos matemáticos aplicados al análisis de datos geoespaciales, así como para el desarrollo de aplicaciones de consultas y visualización de mapas en la web, destacando que todas fueron realizadas con software libre y de código abierto. 
+> Varias de estas aplicaciones están vigentes en el portal de INDEC, apartado Territorio.
+
+### Prof. Adrián Ricardo Toca
 Coordinador del Área de Geoestadística del INDEC     
 desde 2021 trabajo bajo su supervisión directa   
 > El Matemático Alperin es un especialista en el desarrollo de algoritmos para dar respuesta a distintos requerimientos. 
