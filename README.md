@@ -304,6 +304,12 @@ Coordinadora de Organismos Nacionales
 > Hernán fue un recurso clave para el desarrollo de los algoritmos matemáticos aplicados al análisis de datos geoespaciales, así como para el desarrollo de aplicaciones de consultas y visualización de mapas en la web, destacando que todas fueron realizadas con software libre y de código abierto. 
 > Varias de estas aplicaciones están vigentes en el portal de INDEC, apartado Territorio.
 
+### Lic. Pablo Delsere
+Coordinador del Área de Geoestadística del INDEC de Octubre 2019 a Noviembre 2020
+> Trabajo con Hernán desde hace más de diez años; destaco su brillante capacidad para el modelado matemático, el abordaje analítico de problemáticas geoestadísticas, el desarrollo de algoritmos y la codificación de las soluciones. 
+> Hernán posee una habilidad notable para imaginar respuestas a problemas geoespaciales complejos desde las matemáticas.
+> Tal es el caso del desarrollo del algoritmo de segmentación automática para el Censo Nacional de Población y Viviendas 2022.
+
 ### Prof. Adrián Ricardo Toca
 Coordinador del Área de Geoestadística del INDEC     
 desde 2021 trabajo bajo su supervisión directa   
