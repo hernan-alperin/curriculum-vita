@@ -34,7 +34,7 @@ Inicio de actividad laboral según ANSES el
 7 de septiembre de 1988 como docente en el CBC, UBA en la materia Matemática de la cátedra Handsen
  
 ### INDEC
-<img width="100" alt="Instituto de Estadísticas y Censos" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/INDEC.jpg">  
+<img width="100" alt="Instituto de Estadísticas y Censos" src="logos/INDEC.jpg">  
 
 #### Consultor en Matemática, Tecnología de la Información y Geoestadística; y lider en desarrollo de proyectos.  
 
@@ -56,7 +56,7 @@ Inicio de actividad laboral según ANSES el
 
 ### Instituto Junín  
 
-<img width="100" alt="Instituto Junín" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/instituto%20jun%C3%ADn.png">  
+<img width="100" alt="Instituto Junín" src="logos/instituto%20jun%C3%ADn.png">  
 
 Operationes y consultor IT   
 dic. 2014 - abr. 2015 · 5 meses  
@@ -65,7 +65,7 @@ Consultor estratégico de plan de negocios y ventas. Desarrollo de sucursales y 
 
 ### Viridis Learning 
 
-<img width="100" alt="Viridis Learning" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/viridis.png">  
+<img width="100" alt="Viridis Learning" src="logos/viridis.png">  
 
 Recommendation Algorithms and Career-Path Scaffolding  
 feb. 2014 - dic. 2014 · 11 meses  
@@ -74,7 +74,7 @@ Desarrollo de Algoritmos de Recomendación para la asistencia a estudiante y man
 
 ### Deviget LLC  
 
-<img width="100" alt="Deviget LLC" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/deviget original.jpg"> 
+<img width="100" alt="Deviget LLC" src="logos/deviget original.jpg"> 
 
 Programador Matemático  
 feb. 2014 - dic. 2014 · 11 meses  
@@ -83,7 +83,7 @@ Desarrollo de Algoritmos matemáticos y consultor IT para firmas globales
 
 ### Programa Nacional Mapa Educativo, Ministerio de Educación de la Nación
 
-<img height="100" alt="Ministerio de Educación de la Nación" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/MEN.jpg">
+<img height="100" alt="Ministerio de Educación de la Nación" src="logos/MEN.jpg">
 
 Consultor y Desarrollador GIS  
 ago. 2010 - mar. 2013 · 2 años 8 meses  
@@ -95,7 +95,7 @@ Aplicaciones sobre GNU-Linux, php y PostGIS para la generación asistida de mapa
 
 ### INAP, Secretaría de la Gestión Pública, Jefatura de Gabinete de Ministros
 
-<img height="100" alt="Instituto Nacional de la Administración Pública" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/INAP.jpg">
+<img height="100" alt="Instituto Nacional de la Administración Pública" src="logos/INAP.jpg">
 
 Profesor  
 nov. 2012 - 2013 · 3 meses  
@@ -104,7 +104,7 @@ Módulo Postgres - PostGIS para el curso de interoperatibilidad GIS para el Grup
 
 ### Humboldt University of Berlin
 
-<img width="100" alt="Humboldt Universität zu Berlin" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/HU-Berlin.jpg">
+<img width="100" alt="Humboldt Universität zu Berlin" src="logos/HU-Berlin.jpg">
 
 Investigador en la  
 Universität zu Berlin  
@@ -114,7 +114,7 @@ Investigación en Optimización Global y Desarrollo del Software LaGO, ver secci
 
 ### Massachusetts Institute of Technology
 
-<img width="100" alt="Massachusetts Institute of Technology" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/MIT.jpg">
+<img width="100" alt="Massachusetts Institute of Technology" src="logos/MIT.jpg">
 
 Asistente de Cátedra y de Investigación,  
 ORC - MIT  
@@ -139,7 +139,7 @@ aplicado a las arterias centrales de Boston. Modelado y simulación del comporta
 
 ### Facultad de Ciencias Exactas y Naturales, UBA
 
-<img width="100" alt="Facultad de Ciencias Exactas y Naturales, UBA" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/FCEyN.jpg">
+<img width="100" alt="Facultad de Ciencias Exactas y Naturales, UBA" src="logos/FCEyN.jpg">
 
 1989 - 1996 · 7 años  
 Jefe de Trabajos Prácticos, Ayudante de 1ra y de 2da  
@@ -157,7 +157,7 @@ en las siguientes materias:
 
 ### Mapas Temáticos del Censo 2010
 
-<img width="100" alt="Mapadinámico" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/web-app-mapas/geocenso.png">
+<img width="100" alt="Mapadinámico" src="web-app-mapas/geocenso.png">
 
 ene. 2010 - actualidad  
 Asociada con INDEC  
@@ -181,7 +181,7 @@ Mapa de Navegación Interactiva para ver Información Educativa a Nivel de Nacio
 
 ### Unidades Geoestadísticas
 
-<img height="100" alt="Mapadinámico" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/web-app-mapas/codgeo.png">
+<img height="100" alt="Mapadinámico" src="web-app-mapas/codgeo.png">
 
 ene. 2013 - actualidad  
 Asociada con INDEC  
@@ -189,7 +189,7 @@ Sistema interactivo que permite consultar los nombres, códigos y ubicación de 
 
 ### Capacitación en interoperatibilidad GIS para Organismos Públicos
 
-<img height="100" alt="Mapadinámico" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/INAP.jpg">
+<img height="100" alt="Mapadinámico" src="logos/INAP.jpg">
 
 oct. 2012 - dic. 2012  
 Asociada con INAP, Secretaría de la Gestión Pública, Jefatura de Gabinete de Ministros  
@@ -197,7 +197,7 @@ Proyecto de capacitación para miembros de organismos públicos. Su objetivo est
 
 ### Geocodificación Múltiple, Automática e Interactiva
 
-<img height="100" alt="Geocodificación Múltiple, Automática e Interactiva" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/web-app-mapas/geocode.png">
+<img height="100" alt="Geocodificación Múltiple, Automática e Interactiva" src="web-app-mapas/geocode.png">
 
 jun. 2012   
 Asociada con Programa Nacional Mapa Educativo, Ministerio de Educación de la Nación  
@@ -206,7 +206,7 @@ corregiendo errores particulares y sistémicos.
 
 ### Mapas de Exportaciones Argentina por Origen Provincial
 
-<img height="100" alt="Mapadinámico" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/web-app-mapas/opex.jpg">
+<img height="100" alt="Mapadinámico" src="web-app-mapas/opex.jpg">
 
 abr. 2010 - actualidad  
 Asociada con INDEC, se puede ver en 
@@ -219,9 +219,9 @@ Se desarrolló usando free and open source software.
 
 ### Mapas Dinámicos 1991 - 2001
 <p float="left">
-<img height="100" alt="Mapadinámico" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/web-app-mapas/mapadinamico.png">
-<img height="100" alt="Mapadinámico" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/web-app-mapas/mapadinamico%20agua%20de%20red%20seleccionado.png">
-<img height="100" alt="Mapadinámico" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/web-app-mapas/mapadinamico%20Ramón%20Lista.png">
+<img height="100" alt="Mapadinámico" src="web-app-mapas/mapadinamico.png">
+<img height="100" alt="Mapadinámico" src="web-app-mapas/mapadinamico%20agua%20de%20red%20seleccionado.png">
+<img height="100" alt="Mapadinámico" src="web-app-mapas/mapadinamico%20Ramón%20Lista.png">
 </p>
 
 ene. 2006 - actualidad  
@@ -238,7 +238,7 @@ Acceso libre vía web. Sistema de Clasificación de Unidades Censales por Indica
 
 ### Massachusetts Institute of Technology  
 
-<img width="100" alt="Massachusetts Institute of Technology" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/MIT.jpg">
+<img width="100" alt="Massachusetts Institute of Technology" src="logos/MIT.jpg">
 
 Doctorado (PhD), Operations Research: Investigación Operativa  
 1997 - 2001 · 4 años   
@@ -248,8 +248,8 @@ Actividades y grupos: Teaching and Research Assitant
 #### Facultad de Ciencias Exactas y Naturales  
 
 <p float="left">
-<img height="100" alt="Universidad de Buenos Aires" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/UBA.jpg">  
-<img height="90" alt="Facultad de Ciencias Exactas y Naturales, UBA" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/FCEyN.jpg">  
+<img height="100" alt="Universidad de Buenos Aires" src="logos/UBA.jpg">  
+<img height="90" alt="Facultad de Ciencias Exactas y Naturales, UBA" src="logos/FCEyN.jpg">  
 </p>
 
 ##### Licenciado, Ciencias de la computación   
