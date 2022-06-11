@@ -1,5 +1,5 @@
 
-<img width="100%" src="https://github.com/hernan-alperin/curriculum-vitae/blob/main/logos/twister.jpg">
+<img width="100%" src="logos/twister.jpg">
 
 # Lic. Hernán Alperin
 Nacido argentino el jueves 13 de febrero de 1969  
