@@ -169,10 +169,11 @@ Con todo esto clasifica usando una escala de color las unidades censales por reg
 Este sistema permite el trabajo en forma concurrente de distintas areas de la institución.
 Se uso exclusivamente Software Libre: GNU/Linux, Apache-PHP, PostGIS-PostgreSQL, Mapserver.
 
-### Manejo de riesgo
-dic. 2014 - actualidad  
-Asociada con INDEC  
-Uso de imágenes satelitales y datos censales a nivel parcial de radios para estimar poblacion y viviendas bajo riesgo.
+### Distemas de Información e Interoperabilidad del Grupo de Productores de Información Primara (GPIP)
+dic. 2014 - 2016
+Participación en representación del INDEC, mdelando la información de densidad problacional. Ciudad vs Campo, en proporciones areales, 
+a fin de poder establecer un servicio ad-hoc para un sistema de información para las emergencias.
+Uso de imágenes satelitales y datos censales a nivel parcial de radios para estimar poblacion y viviendas bajo una zona de influencia..
 
 ### Portal del Mapa Educativo Nacional
 may. 2013 - 2016   
