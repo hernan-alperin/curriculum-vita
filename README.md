@@ -597,3 +597,5 @@ SAMSUNG Health
 [Twitter @HernanAlperin](https://twitter.com/HernanAlperin)
 
 [LinkedIn](https://www.linkedin.com/in/hernanalperin/?locale=es_ES)
+
+[Github](https://github.com/hernan-alperin)
