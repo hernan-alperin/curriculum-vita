@@ -1,0 +1,9 @@
+img {
+  height: 100px;
+  text-align: left;
+}
+
+table, th, td {
+  border: 1px solid;
+  border-collapse: collapse;
+}
