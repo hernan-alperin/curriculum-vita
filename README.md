@@ -455,6 +455,11 @@ Graduate Cumulative GPA: 4.9 (on a 5.0 scale)
 |Microbiología e Inmunología                     |  9    | 22/2/91 |
 |Virología                                       | TP aprobados   |         |
 
+### Beca de Investigación para estudiante. 1989
+Desarrada 
+en INGEBI bajo la supervisión del Dr. Gerardo Glikin y 
+en la Fundación Campomar (actual Fundación Instituto Leloir) bajo la supervisión del Dr. Ugalde
+
 ## Conocimientos y aptitudes validadas por colegas en LikedIn 
 
 - PostgreSQL, 
