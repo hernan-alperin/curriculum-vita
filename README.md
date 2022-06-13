@@ -207,15 +207,17 @@ Se puede ver en
 
 oct. 2012 - dic. 2012  
 Asociada con INAP, Secretaría de la Gestión Pública, Jefatura de Gabinete de Ministros  
-Proyecto de capacitación para miembros de organismos públicos. Su objetivo esta concentrado en interoperatibilidad, servicios web, data management y desarrollo corporativo de herramientas geoespaciales.
+Proyecto de capacitación para miembros de organismos públicos. 
+Su objetivo estuvo concentrado en interoperatibilidad, servicios web, data management y desarrollo corporativo de herramientas geoespaciales.
 
 ### Geocodificación Múltiple, Automática e Interactiva
 
 <img height="100" alt="Geocodificación Múltiple, Automática e Interactiva" src="web-app-mapas/geocode.png">
 
 jun. 2012   
-Asociada con Programa Nacional Mapa Educativo, Ministerio de Educación de la Nación  
-Servicio para geocodificar una lista de direcciones en forma asincrónica. Implementación de un cliente para la API de googlemap que permitió scrappear cientos de miles de direcciones, 
+Asociada con el Programa Nacional Mapa Educativo, Ministerio de Educación de la Nación  
+Fue un servicio para geocodificar una lista de direcciones en forma asincrónica a través de la 
+implementación de un cliente para la API de googlemap que permitió scrappear cientos de miles de direcciones, 
 corregiendo errores particulares y sistémicos.
 
 ### Mapas de Exportaciones Argentina por Origen Provincial
@@ -229,7 +231,7 @@ Asociada con INDEC, se puede ver en
 
 Sitio web para consultar información sobre exportaciones argentinas desde 1995 
 desagregadas por país destino, provincia de origen, año, rubro y producto. 
-Se desarrolló usando free and open source software.
+Está desarrollada completamente con free and open source software.
 
 ### Mapas Dinámicos 1991 - 2001
 <p float="left">
@@ -243,8 +245,7 @@ Asociada con INDEC, se puede ver en
  
 [Mapas Dinámicos](https://www.indec.gob.ar/indec/web/Nivel4-Tema-1-16-81)
 
-Sistema de Información Geográfica de Argentina con Datos del Censo Nacional de Personas y Viviendas 2001,
- y del Censo Agropecuario 2002. 
+Sistema de Información Geográfica de Argentina con Datos del Censo Nacional de Personas y Viviendas 2001, y del Censo Agropecuario 2002. 
 Acceso libre vía web. Sistema de Clasificación de Unidades Censales por Indicadores.
 
 
@@ -254,7 +255,7 @@ Acceso libre vía web. Sistema de Clasificación de Unidades Censales por Indica
 
 <img width="100" alt="Massachusetts Institute of Technology" src="logos/MIT.jpg">
 
-Doctorado (PhD), Operations Research: Investigación Operativa  
+#### Doctorado (PhD), Operations Research: Investigación Operativa  
 1997 - 2001 · 4 años   
 Actividades y grupos: Teaching and Research Assitant
 
@@ -269,23 +270,24 @@ Actividades y grupos: Teaching and Research Assitant
 ##### Licenciado, Ciencias de la computación   
 1989 - 1994 · 5 años  
 Titulación: 8.40 sobre 10 (Diploma de Honor)  
-Actividades y grupos: Consejero Directivo por el Claustro Estudiantil  
+Actividades y grupos: Consejero Directivo por el Claustro Estudiantil, puesto electivo.  
 
 ##### Licenciatura en Ciencias Biológicas, FCEyN, UBA  
 Licenciatura, Ciencias Biológicas  
 1987 - 1989 · 3 años  
 promedio alcanzado: 9.45 sobre 10  
-Actividades y grupos: CECEN  
-miembro de la agrupación de estudiantes AEI. A cargo del centro de copiado del CECEN.  
+Actividades y grupos: Centro de Estudiantes de Ciencias Exactas y Naturales (CECEN)  
+miembro de la agrupación de estudiantes AEI, representante a junta electoral. 
+A cargo del centro de copiado del CECEN ubicado en la Biblioteca..  
 
 ## Voluntariado
 miembro  
 GeoInquietos ArgentinaGeo  
 2012 - actualidad · 10 años  
 Ciencia y tecnología  
-Reuniones mensuales para compartir experiencias en el uso de software libre para Geomática.
+Reuniones periódicas para compartir experiencias en el uso de software libre para Geomática.
 Organización de la Conferencia FOSS4G BsAs realizada en abril 2013 y en abril 2016 en el Instituto Geográfico Nacional.  
-participación en la organizción de las FOSS4G Argentina
+participación en la organización de las FOSS4G Argentina
 
 ## Recomendaciones
 ### Luis Piccinali  
@@ -295,7 +297,7 @@ Luis trabajaba con Hernán en el mismo equipo en 2012 en el programa MapaEducati
 > Sus conocimientos en matemática y habilidad en el tema permiten obtener distintas miradas a la resolución de problemas y a la implementación de proyectos referidos a información geográfica que de por sí son complejos y diversos.
 
 ### Lic. Emilio Platzer 
-Licenciado en Ciencias de la Computación. Especialista en desarrollo de software y en coordinación de equipos Full Stack
+Licenciado en Ciencias de la Computación. Especialista en desarrollo de software y en coordinación de equipos Full Stack. 
 Emilio trabajaba con Hernán en el mismo equipo en 1995 en la Dirección de Precios de Consumo del INDEC
 > Hernán es un profesional muy capaz y creativo. 
 > Se destaca por ser práctico y llegar a soluciones tempranas aún en situaciones complejas.
@@ -333,19 +335,19 @@ desde 2021 trabajo bajo su supervisión directa
 > Contar con él en nuestra Coordinación es garantía de calidad en nuestras actividades y producciones.
 
 ## Publicaciones
-1600 menciones encontradas en academia.edu  
+1600 menciones encontradas en 
 [Academia.edu](https://hu-berlin.academia.edu/HernanAlperin)
 
 ### Lagrangian Smoothing Heuristics for Max-Cut 
-Journal of Heuristics, 2005  
+#### Journal of Heuristics, 2005  
 This paper presents a smoothing heuristic for an NP-hard combinatorial problem. Startingwith a convex Lagrangian relaxation, a pathfollowing method is applied to obtain good solutionswhile gradually transforming the relaxed problem into the original problem formulated with anexact penalty function. Starting points are drawn using diﬀerent sampling techniques that userandomization and eigenvectors. The dual point that deﬁnes the convex relaxation is computedvia eigenvalue optimization using subgradient techniques.The proposed method turns out to be competitive with the most recent ones. The ideapresented here is generic and can be generalized to all box-constrained problems where convexLagrangian relaxation can be applied. Furthermore, to the best of our knowledge, this is theﬁrst time that a Lagrangian heuristic is combined with pathfollowing techniques.
 
 ### LaGO - An object oriented library for solving MINLPs
-Global Optimization and Constraint Satisfaction Lecture Notes in Computer Science Volume 2861, 2003, pp 32-42 · 1 oct. 2003
+#### Global Optimization and Constraint Satisfaction Lecture Notes in Computer Science Volume 2861, 2003, pp 32-42 · 1 oct. 2003
 The paper describes a software package called LaGO for solving nonconvex mixed integer nonlinear programs (MINLPs). The main component of LaGO is a convex relaxation which is used for generating solution candidates and computing lower bounds of the optimal value. The relaxation is generated by reformulating the given MINLP as a block-separable problem, and replacing nonconvex functions by convex underestimators. Results on medium size MINLPs are presented.
 
 ### A Relaxation-Based Heuristic for the Design of Cost-Effective Energy Conversion Systems
-Energy, Volume 31, Issues 10–11, August 2006, Pages 1346–1357 ECOS 2003 · 1 ene. 2003
+#### Energy, Volume 31, Issues 10–11, August 2006, Pages 1346–1357 ECOS 2003 · 1 ene. 2003
 Mathematicians and engineers have developed in a joint research project a solution approach for performing simultaneous structural and design variable optimization in the design of cost-effective complex energyconversionsystems. The paper presents a methodology and an application to the design of a combined-cycle power plant that provides fixed amounts of electricity and steam for a paper factory. A superstructure that has embedded several potential configurations of such a cogeneration system is used to minimize the total cost of the plant products. The design problem is formulated as a nonconvex mixed-integer nonlinear program (MINLP), and solved via a rounding heuristicbased on an automatically generated convex relaxation of the given problem. Utilities and the process industry are expected to benefit from such a MINLP optimization technique.
 
 ## Algunas presentaciones en Congresos
