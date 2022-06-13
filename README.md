@@ -606,6 +606,6 @@ SAMSUNG Health
 
 [LinkedIn](https://www.linkedin.com/in/hernanalperin/?locale=es_ES)
 
-<img width="100" alt="Github" src="logos/github_PNG40.jpg">
+<img width="100" alt="Github" src="logos/github_PNG40.png">
 
 [Github](https://github.com/hernan-alperin)
