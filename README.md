@@ -10,7 +10,7 @@ de la Dirección Nacional de Metodología Estadística - INDEC
 ## Objetivos
 - aportar desde las Ciencias de la Computación, la Investigación Operativa, la Optimización y la Programación Matemática 
 a la metodología de los operativos que se realizan en el Estado Nacional; 
-- seguir capacitándome en una posición de liderazgo dentro de un equipo de trabajo productivo; y 
+- seguir capacitándome en una posición de liderazgo dentro de un equipo de trabajo proactivo; y 
 - capacitar a mis colegas del INDEC en el uso de herramientas de Open Source Software.
 
 ## Credenciales
@@ -40,13 +40,13 @@ Inicio de actividad laboral según ANSES el
 
 ##### Desarrollo de Sistemas de Información Geoestadística sobre plataforma web y software libre.  
 
-- 2022: Asistencia remota en la coordinación del equipo de referentes provinciales para la segmentación del censo. Dirección de programador Jr. Incorporado en diciembre 2021.  
+- 2022: Asistencia remota en la coordinación del equipo de referentes provinciales para la segmentación del censo. Supervisión de programador Jr. incorporado en diciembre 2021.  
 - 2020 – 2021: Coparticipación en el desarrollo de la interfase para la Segmentación y la carga de la cartografía y listados para el Censo 2022  
 - 2018 – 2019: Desarrollo del Core del Segmentador para el Censo de Población 2020 en Open Source Software con herramientas git  
 - 2015 - 2017: Miembro de la Coordinación del Sistema Geoestadístico  
 - 2009 - 2015: Sistemas de Información Geográfica, Dirección Técnica  
 - 2006 - 2009: Mapa Dinámico. Dirección de Informática. Desarrollo de Sistemas de Información Geoestadística sobre Plataforma Web y Software Libre y Abierto 
-- 2005 - 2006: Dirección Nacional de Unidades Económicas, Asesor informático de la Dir. de Metodología  
+- 2005 - 2006: Dirección Nacional de Unidades Económicas, Asesor informático de la Dirección Nacional de Metodología  
 
 ( Entre 1997 y 2005: Estudios y Capacitación en el extranjero, ver más abajo) 
 
@@ -69,8 +69,13 @@ Consultor estratégico de plan de negocios y ventas. Desarrollo de sucursales y 
 
 Recommendation Algorithms and Career-Path Scaffolding  
 feb. 2014 - dic. 2014 · 11 meses  
-up in the Cloud  
-Desarrollo de Algoritmos de Recomendación para la asistencia a estudiante y mano de obra medianamente calificada a elegir la mejor educación con mayor potencial para obtener prospectivos posiciones laborales y ayudarlos a construir su carrera laboral hacia sus objetivos. Este fue implementado usando el estado del arte en Algoritmos Matemáticos y de las Ciencias de Computación, observando la demanda del mercado laboral, la oferta educativa y las inclinaciones profesionales de los usuarios accediendo a las Bases de datos del U.S. Bureau of Labor Statistics and PayScale.com
+EEUU, trabajo remoto en la nube  
+Desarrollo de Algoritmos de Recomendación para la asistencia a estudiantes y mano de obra medianamente calificada 
+a elegir la mejor educación con mayor potencial para obtener prospectivas posiciones laborales y ayudarlos 
+a construir su carrera laboral hacia sus objetivos. 
+Esto fue implementado usando el estado del arte en Algoritmos Matemáticos y de las Ciencias de Computación, 
+observando la demanda del mercado laboral, la oferta educativa y las inclinaciones profesionales de los usuarios 
+accediendo a las Bases de datos del U.S. Bureau of Labor Statistics y los niveles salariales obtenidos de PayScale.com
 
 ### Deviget LLC  
 
@@ -88,9 +93,12 @@ Desarrollo de Algoritmos matemáticos y consultor IT para firmas globales
 Consultor y Desarrollador GIS  
 ago. 2010 - mar. 2013 · 2 años 8 meses  
 Paraguay 1657 caba, Argentina  
-Análisis, Diseño y Especificación de los Sistemas de Argentina Trabaja, Televisión Digital Abierta de la Comisión Nacional de Telecomunicaciones (tdaCNC). Asesoramiento para la migración de la base de dato del Archivo de la Memoria sobre el Terrorismo de Estado.
+Análisis, Diseño y Especificación de los Sistemas de Argentina Trabaja, 
+Televisión Digital Abierta de la Comisión Nacional de Telecomunicaciones (tdaCNC). 
+Asesoramiento para la migración de la base de datos del Archivo de la Memoria sobre el Terrorismo de Estado.
 Desarrollo de Interfase de geocodificación web usando google-api,
-Aplicaciones sobre GNU-Linux, php y PostGIS para la generación asistida de mapas temáticos en estandar svg, y del Portal del Mapa Educativo Nacional en el sitio oficial del Ministerio de Educación.
+aplicaciones sobre GNU-Linux, php y PostGIS para la generación asistida de mapas temáticos en estandar svg.
+Desarrrollo del Portal del Mapa Educativo Nacional en el sitio oficial del Ministerio de Educación.
 
 
 ### INAP, Secretaría de la Gestión Pública, Jefatura de Gabinete de Ministros
@@ -146,11 +154,11 @@ Jefe de Trabajos Prácticos, Ayudante de 1ra y de 2da
 Facultad de Ciencias Exactas y Naturales, UBA y Ciclo Básico Común  
 Ciudad Universitaria  
 en las siguientes materias:  
-- Matemática, 
-- Análisis I del CBC; y   
-- Teoría de Lenguajes y Autómatas, 
-- Investigación Operativa y 
-- Laboratorio II en el Dpto. de Computación, FCEyN
+- Matemática 1989,
+- Análisis I del CBC 1990-1996;  y   
+- Teoría de Lenguajes y Autómatas 1993, 
+- Investigación Operativa 1994 y 
+- Laboratorio II 1995 en el Dpto. de Computación, FCEyN
 
 
 ## Proyectos
@@ -160,24 +168,27 @@ en las siguientes materias:
 <img width="100" alt="Mapadinámico" src="web-app-mapas/geocenso.png">
 
 ene. 2010 - actualidad  
-Asociada con INDEC  
-Esta aplicación fue completamente desarrollada dentro del Instituto Nacional de Estadística y Censos (INDEC). 
+Asociada con el INDEC  
+Esta aplicación fue completamente desarrollada dentro del INDEC. 
 Permite definir fórmulas de cálculo de indicadores a partir de cuadros y 
 crear regiones o agrupaciones de unidades geográficas a ser consideradas en forma conjunta. 
 Genera en forma intuitiva rangos de clasificación para cada indicador en cada región. 
 Con todo esto clasifica usando una escala de color las unidades censales por regiones y se genera mapas temáticos on-line. 
 Este sistema permite el trabajo en forma concurrente de distintas areas de la institución.
-Se uso exclusivamente Software Libre: GNU/Linux, Apache-PHP, PostGIS-PostgreSQL, Mapserver.
+Se usó exclusivamente Software Libre: GNU/Linux, Apache-PHP, PostGIS-PostgreSQL, Mapserver.
+Se puede ver en
+[GeoCenso](https://www.sig.indec.gov.ar/censo2010/)
 
-### Distemas de Información e Interoperabilidad del Grupo de Productores de Información Primara (GPIP)
+
+### Sistemas de Información e Interoperabilidad del Grupo de Productores de Información Primaria (GPIP)
 dic. 2014 - 2016
-Participación en representación del INDEC, mdelando la información de densidad problacional. Ciudad vs Campo, en proporciones areales, 
+Participación en representación del INDEC, modelando la información de densidad problacional. Ciudad vs Campo, en proporciones areales, 
 a fin de poder establecer un servicio ad-hoc para un sistema de información para las emergencias.
-Uso de imágenes satelitales y datos censales a nivel parcial de radios para estimar poblacion y viviendas bajo una zona de influencia..
+Uso de imágenes satelitales y datos censales a nivel parcial de radios para estimar poblacion y viviendas bajo una zona de influencia.
 
 ### Portal del Mapa Educativo Nacional
 may. 2013 - 2016   
-Asociada con Programa Nacional Mapa Educativo, Ministerio de Educación de la Nación  
+Asociada con el Programa Nacional Mapa Educativo, Ministerio de Educación de la Nación  
 Mapa de Navegación Interactiva para ver Información Educativa a Nivel de Nacional, Provincial y Departamental. En este último nivel se muestra la ubicación de las escuelas.
 
 ### Unidades Geoestadísticas
@@ -185,12 +196,14 @@ Mapa de Navegación Interactiva para ver Información Educativa a Nivel de Nacio
 <img height="100" alt="Mapadinámico" src="web-app-mapas/codgeo.png">
 
 ene. 2013 - actualidad  
-Asociada con INDEC  
+Asociada con el INDEC  
 Sistema interactivo que permite consultar los nombres, códigos y ubicación de las distintas unidades geográficas empleadas por el INDEC con fines estadísticos.
+Se puede ver en
+[CodGeo](https://www.indec.gob.ar/indec/web/Nivel4-Tema-1-39-122)
 
 ### Capacitación en interoperatibilidad GIS para Organismos Públicos
 
-<img height="100" alt="Mapadinámico" src="logos/INAP.jpg">
+<img height="100" alt="INAP" src="logos/INAP.jpg">
 
 oct. 2012 - dic. 2012  
 Asociada con INAP, Secretaría de la Gestión Pública, Jefatura de Gabinete de Ministros  
@@ -207,7 +220,7 @@ corregiendo errores particulares y sistémicos.
 
 ### Mapas de Exportaciones Argentina por Origen Provincial
 
-<img height="100" alt="Mapadinámico" src="web-app-mapas/opex.jpg">
+<img height="100" alt="OPEX" src="web-app-mapas/opex.jpg">
 
 abr. 2010 - actualidad  
 Asociada con INDEC, se puede ver en 
