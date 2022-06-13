@@ -592,10 +592,20 @@ SAMSUNG Health
 
 ## Redes sociales
 
+
+<img width="100" alt="Github" src="logos/Facebook_logo_36x36.svg.png">
+
 [Facebook](https://www.facebook.com/hernan.alperin.7/)
+
+
+<img width="100" alt="Github" src="logos/Twitter-Logo.png">
 
 [Twitter @HernanAlperin](https://twitter.com/HernanAlperin)
 
+<img width="100" alt="Github" src="logos/linkedin.webp">
+
 [LinkedIn](https://www.linkedin.com/in/hernanalperin/?locale=es_ES)
+
+<img width="100" alt="Github" src="logos/github_PNG40.jpg">
 
 [Github](https://github.com/hernan-alperin)
