@@ -361,8 +361,8 @@ Mathematicians and engineers have developed in a joint research project a soluti
 
 
 
-## Cursos y Materias
-### Asociados con MIT (id 965 990 672)
+## Cursos y Asignaturas
+### Asociados con el PhD en Operations Research en el MIT (id 965 990 672)
 |Fall Term 1997 - 1998 |
 | :------------------- |
 |Applied Probability 6.431 |
@@ -421,7 +421,7 @@ Mathematicians and engineers have developed in a joint research project a soluti
 24/5/1999 Doctoral General Examination completed    
 Graduate Cumulative GPA: 4.9 (on a 5.0 scale)  
 
-### Asociadas con Licenciado en Ciencias de la Computación, FCEyN, UBA
+### Asociadas con la Licenciatura en Ciencias de la Computación, FCEyN, UBA
 | asignatura                                     | nota  |  fecha  |
 |:--                                             |   --: |  ----:  |
 |Laboratorio I                                   | 10    |  2/4/90 |
@@ -453,7 +453,7 @@ Graduate Cumulative GPA: 4.9 (on a 5.0 scale)
 |Redes de Información                            |  9    | 16/12/93|
 |Tesis de Licenciatura: Combinación de Pronósticos en Series de Tiempo   | 10    | 3/11/94 |
 
-### Asociada con Licenciatura en Ciencias Biológicas, FCEyN, UBA
+### Asociada con la Licenciatura en Ciencias Biológicas, FCEyN, UBA
 | asignatura                                     | nota  |  fecha  |
 |:--                                             |   --: |  ----:  |
 |Química General e Inorgánica                    | 10    | 1/3/88  |
@@ -472,7 +472,7 @@ Graduate Cumulative GPA: 4.9 (on a 5.0 scale)
 
 ### Beca de Investigación para estudiante. 1989
 Desarrada 
-en INGEBI bajo la supervisión del Dr. Gerardo Glikin y 
+en el INGEBI bajo la supervisión del Dr. Gerardo Glikin y 
 en la Fundación Campomar (actual Fundación Instituto Leloir) bajo la supervisión del Dr. Ugalde
 
 ## Conocimientos y aptitudes validadas por colegas en LikedIn 
@@ -563,9 +563,7 @@ Ha superado la evaluación de aptitudes de LinkedIn
 - MapServer
 2 validaciones,
 - HTML 5,
-- English
 1 validación,
-- Redmine,
 - SVG,
 1 validación
 - Team Management
@@ -584,7 +582,7 @@ Ha superado la evaluación de aptitudes de LinkedIn
 ### Español 
 nativo
 ### Inglés 
-fluente, conversacional a nivel laboral desde 1997
+fluente, conversacional a nivel laboral desde 1997   
 Certificate of Course Completion, from 7/4/96 to 4/5/96 at Oxford ANGLO WORLD EDUCATION (UK) LIMITED
 
 ### Alemán 
