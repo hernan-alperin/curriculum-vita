@@ -181,7 +181,7 @@ Se puede ver en
 
 
 ### Sistemas de Información e Interoperabilidad del Grupo de Productores de Información Primaria (GPIP)
-dic. 2014 - 2016
+- dic 2012  
 Participación en representación del INDEC, modelando la información de densidad problacional. Ciudad vs Campo, en proporciones areales, 
 a fin de poder establecer un servicio ad-hoc para un sistema de información para las emergencias.
 Uso de imágenes satelitales y datos censales a nivel parcial de radios para estimar poblacion y viviendas bajo una zona de influencia.
